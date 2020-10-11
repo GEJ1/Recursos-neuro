@@ -53,4 +53,4 @@ Solo contenido gratuito.
     * playlist: https://www.youtube.com/playlist?list=PLlZeP0wo7-V-FESy7Jrl-OjzZh4np3aob
     * contenido: http://www.ege.fcen.uba.ar/academico/materias-de-grado/materias-del-ciclo-superior-segundo-cuatrimestre/materias-del-area-ecologia/biometria-ii/
     
-* Essence of linear algebra (3Blue1Brown)https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab
+* Essence of linear algebra (3Blue1Brown): https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab
