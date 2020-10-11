@@ -31,3 +31,5 @@ repo: https://github.com/mikexcohen/NeuroscienceSourceSeparation
     * jsPsych: https://www.youtube.com/playlist?list=PLnfo1lBY1P2Mf_o6rV5wiqqn92Mw3UTGh 
  
     * Moving research online workshop: https://www.youtube.com/playlist?list=PLb_Brg3lLp-2HUVoc0SpFft3lu-rQOgAe
+
+8. fMRI Bootcamp: https://www.youtube.com/playlist?list=PLyGKBDfnk-iDVpUGSR_GlDmQrZOS0Lk6k
