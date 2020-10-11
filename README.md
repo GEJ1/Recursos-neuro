@@ -9,6 +9,7 @@ Solo contenido gratuito.
 - [Experimentos online](#Experimentos-online)
 - [Neurociencia computacional](#Neurociencia-computacional)
 - [Herramientas matemática / ciencia de datos](#Herramientas)
+- [Ciencias Cognitivas](#Ciencias-Cognitivas)
 
 
 # EEG
@@ -56,3 +57,7 @@ Solo contenido gratuito.
 * Essence of linear algebra (3Blue1Brown): https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab
 
 * Introduction to statistics (Khan Academy): https://www.youtube.com/playlist?list=PL1328115D3D8A2566
+
+# Ciencias Cognitivas
+
+* Introduction to Cognitive Science for Undergraduates. Lectures delivered in University College Dublin in Spring 2020: https://www.youtube.com/playlist?list=PLTIeLyBa6PfJCSiIiwVhJIjl_lMZZQ-rD
