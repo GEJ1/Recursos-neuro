@@ -8,7 +8,7 @@ Solo contenido gratuito.
 - [fMRI](#fMRI)
 - [Experimentos online](#Experimentos-online)
 - [Neurociencia computacional](#Neurociencia-computacional)
-- [Ciencia de datos](#Ciencia-de-datos)
+- [Herramientas matemática / ciencia de datos](#Herramientas)
 
 
 # EEG
@@ -27,10 +27,7 @@ Solo contenido gratuito.
 
 * fMRI Bootcamp: https://www.youtube.com/playlist?list=PLyGKBDfnk-iDVpUGSR_GlDmQrZOS0Lk6k
  
-# Ciencia de datos
-
-* Data Science for Biologists: https://www.youtube.com/playlist?list=PLMrJAkhIeNNQz4BMoGSsN8cbt8pHlokhV
-
+ 
 # Neurociencia computacional
 
 * Todo el material de la escuela de verano neurociencia computacional **Neuromatch Academy 2020** : https://www.neuromatchacademy.org/syllabus
@@ -43,5 +40,14 @@ Solo contenido gratuito.
 * jsPsych: https://www.youtube.com/playlist?list=PLnfo1lBY1P2Mf_o6rV5wiqqn92Mw3UTGh 
  
 * Moving research online workshop: https://www.youtube.com/playlist?list=PLb_Brg3lLp-2HUVoc0SpFft3lu-rQOgAe
+
+# Herramientas
+
+* Data Science for Biologists: https://www.youtube.com/playlist?list=PLMrJAkhIeNNQz4BMoGSsN8cbt8pHlokhV
+
+* Class lectures for Mathematical Tools for Neural and Cognitive Science, a graduate course at NYU.  
+    * playlist: https://www.youtube.com/playlist?list=PLhOZWeo463baxX56-Qnt3jiG6P76a4gis
+    * content: http://www.cns.nyu.edu/~eero/math-tools/
+
 
 
