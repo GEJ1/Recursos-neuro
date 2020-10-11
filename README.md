@@ -54,3 +54,5 @@ Solo contenido gratuito.
     * contenido: http://www.ege.fcen.uba.ar/academico/materias-de-grado/materias-del-ciclo-superior-segundo-cuatrimestre/materias-del-area-ecologia/biometria-ii/
     
 * Essence of linear algebra (3Blue1Brown): https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab
+
+* Introduction to statistics (Khan Academy): https://www.youtube.com/playlist?list=PL1328115D3D8A2566
