@@ -4,8 +4,8 @@ Solo contenido gratuito.
 
 
 1. Neuroscience source separation: 
-Playlist: https://youtu.be/xhKkl53sgwU
-repo: https://github.com/mikexcohen/NeuroscienceSourceSeparation
+    * Playlist: https://youtu.be/xhKkl53sgwU
+    * repo: https://github.com/mikexcohen/NeuroscienceSourceSeparation
 
 2. Data Science for Biologists: https://www.youtube.com/playlist?list=PLMrJAkhIeNNQz4BMoGSsN8cbt8pHlokhV
 
