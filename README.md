@@ -47,11 +47,8 @@ Solo contenido gratuito.
 
 * Class lectures for Mathematical Tools for Neural and Cognitive Science, a graduate course at NYU.  
     * playlist: https://www.youtube.com/playlist?list=PLhOZWeo463baxX56-Qnt3jiG6P76a4gis
-    * content: http://www.cns.nyu.edu/~eero/math-tools/
+    * contenido: http://www.cns.nyu.edu/~eero/math-tools/
 
 * Biometría 2, materia de FCEyN (UBA) 
-      * Playlist: https://www.youtube.com/playlist?list=PLlZeP0wo7-V-FESy7Jrl-OjzZh4np3aob
-      * Contenido: http://www.ege.fcen.uba.ar/academico/materias-de-grado/materias-del-ciclo-superior-segundo-cuatrimestre/materias-del-area-ecologia/biometria-ii/
-
-
-
+    * playlist: https://www.youtube.com/playlist?list=PLlZeP0wo7-V-FESy7Jrl-OjzZh4np3aob
+    * contenido: http://www.ege.fcen.uba.ar/academico/materias-de-grado/materias-del-ciclo-superior-segundo-cuatrimestre/materias-del-area-ecologia/biometria-ii/
