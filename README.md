@@ -2,27 +2,41 @@
 Repo para ir agregando recursos en Neurociencia Cognitva, computacional y temas relacionados (estadística, métodos de análisis, etc).
 Solo contenido gratuito.
 
+## Temas
+- [EEG](#EEG)
+- [fMRI](#fMRI)
+- [Experimentos online](#Experimentos-online)
+- [Neurociencia computacional](#Neurociencia-computacional)
+- [Ciencia de datos](#Ciencia-de-datos)
 
-1. Neuroscience source separation: 
+
+# EEG
+
+* Neuroscience source separation: 
     * Playlist: https://youtu.be/xhKkl53sgwU
     * repo: https://github.com/mikexcohen/NeuroscienceSourceSeparation
 
-2. Data Science for Biologists: https://www.youtube.com/playlist?list=PLMrJAkhIeNNQz4BMoGSsN8cbt8pHlokhV
-
-3. EEGLAB youtube channel: https://www.youtube.com/channel/UCK8x1bdiHWmT0yCNEjTcEvA
+* EEGLAB youtube channel: https://www.youtube.com/channel/UCK8x1bdiHWmT0yCNEjTcEvA
     * EEGLAB introduction: https://www.youtube.com/playlist?list=PLXc9qfVbMMN2NksmDeqizCI1z5DJBlqC6
     * General Linear Model of EEG using EEGLAB/LIMO: https://www.youtube.com/playlist?list=PLXc9qfVbMMN2Vrzte9ul3nrrG8AgB5OkU
     * ICA applied to EEG: https://www.youtube.com/playlist?list=PLXc9qfVbMMN2uDadxZ_OEsHjzcRtlLNxc
     * Time-Frequency Analysis of EEG Time Series: https://www.youtube.com/playlist?list=PLXc9qfVbMMN2TAoLHVW5NvNmJtwiHurzw
     
-4. Todo el material de la escuela de verano neurociencia computacional **Neuromatch Academy 2020** : https://www.neuromatchacademy.org/syllabus
+# fMRI
+
+* fMRI Bootcamp: https://www.youtube.com/playlist?list=PLyGKBDfnk-iDVpUGSR_GlDmQrZOS0Lk6k
+ 
+# Ciencia de datos
+    * Data Science for Biologists: https://www.youtube.com/playlist?list=PLMrJAkhIeNNQz4BMoGSsN8cbt8pHlokhV
+
+# Neurociencia computacional
+
+* Todo el material de la escuela de verano neurociencia computacional **Neuromatch Academy 2020** : https://www.neuromatchacademy.org/syllabus
     * Incluye videos de las clases, notebooks, etc.
     
-5. Class lectures for Mathematical Tools for Neural and Cognitive Science, a graduate course at NYU.  
-    * playlist: https://www.youtube.com/playlist?list=PLhOZWeo463baxX56-Qnt3jiG6P76a4gis
-    * content: http://www.cns.nyu.edu/~eero/math-tools/
 
-6. Experimentos online:
+
+# Experimentos online
 
     * Pychopy: https://www.youtube.com/playlist?list=PLFB5A1BE51964D587
 
@@ -30,4 +44,4 @@ Solo contenido gratuito.
  
     * Moving research online workshop: https://www.youtube.com/playlist?list=PLb_Brg3lLp-2HUVoc0SpFft3lu-rQOgAe
 
-7. fMRI Bootcamp: https://www.youtube.com/playlist?list=PLyGKBDfnk-iDVpUGSR_GlDmQrZOS0Lk6k
+
