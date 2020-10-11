@@ -1,5 +1,5 @@
 # Recursos-neuro
-Repo para ir agregando recursos en neurociencia cognitva y computacional con amplitud temática.
+Repo para ir agregando recursos en Neurociencia Cognitva, computacional y temas relacionados (estadística, métodos de análisis, etc).
 Solo contenido gratuito.
 
 
@@ -21,10 +21,8 @@ Solo contenido gratuito.
 5. Class lectures for Mathematical Tools for Neural and Cognitive Science, a graduate course at NYU.  
     * playlist: https://www.youtube.com/playlist?list=PLhOZWeo463baxX56-Qnt3jiG6P76a4gis
     * content: http://www.cns.nyu.edu/~eero/math-tools/
-    
-6. Andrew Ng. Machine learning coursera: https://www.youtube.com/playlist?list=PLZ9qNFMHZ-A4rycgrgOYma6zxF4BZGGPW
 
-7. Experimentos online:
+6. Experimentos online:
 
     * Pychopy: https://www.youtube.com/playlist?list=PLFB5A1BE51964D587
 
@@ -32,4 +30,4 @@ Solo contenido gratuito.
  
     * Moving research online workshop: https://www.youtube.com/playlist?list=PLb_Brg3lLp-2HUVoc0SpFft3lu-rQOgAe
 
-8. fMRI Bootcamp: https://www.youtube.com/playlist?list=PLyGKBDfnk-iDVpUGSR_GlDmQrZOS0Lk6k
+7. fMRI Bootcamp: https://www.youtube.com/playlist?list=PLyGKBDfnk-iDVpUGSR_GlDmQrZOS0Lk6k
