@@ -9,8 +9,11 @@ Solo contenido gratuito.
 - [fMRI](#fMRI)
 - [Experimentos online](#Experimentos-online)
 - [Neurociencia computacional](#Neurociencia-computacional)
-- [Herramientas matemática / ciencia de datos](#Herramientas)
+- [Herramientas matemáticas / ciencia de datos](#Herramientas)
 - [Ciencias Cognitivas](#Ciencias-Cognitivas)
+- [Machine Learning](#Machine-Learning)
+- [Deep Learning](#Deep-Learning)
+
 
 
 # EEG
@@ -63,3 +66,11 @@ Solo contenido gratuito.
 # Ciencias Cognitivas
 
 * Introduction to Cognitive Science for Undergraduates. Lectures delivered in University College Dublin in Spring 2020: https://www.youtube.com/playlist?list=PLTIeLyBa6PfJCSiIiwVhJIjl_lMZZQ-rD
+
+# Machine Learning
+
+* A curated list of awesome machine learning frameworks, libraries and software (by language): https://github.com/josephmisiti/awesome-machine-learning
+
+# Deep Learning
+
+* Open Deep Learning and Reinforcement Learning lectures from top Universities like Stanford, MIT, UC Berkeley: https://github.com/Machine-Learning-Tokyo/AI_Curriculum
