@@ -63,6 +63,8 @@ Solo contenido gratuito.
 
 * Introduction to statistics (Khan Academy): https://www.youtube.com/playlist?list=PL1328115D3D8A2566
 
+* Steve Brunton explica muchos temas de matemática útiles para neurociencias (listas de: álgebra lineal, SVD,  Fourier, data science, entre otros): https://www.youtube.com/c/Eigensteve/playlists
+
 # Ciencias Cognitivas
 
 * Introduction to Cognitive Science for Undergraduates. Lectures delivered in University College Dublin in Spring 2020: https://www.youtube.com/playlist?list=PLTIeLyBa6PfJCSiIiwVhJIjl_lMZZQ-rD
