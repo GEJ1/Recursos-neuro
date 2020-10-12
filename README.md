@@ -15,9 +15,10 @@ Solo contenido gratuito.
 
 # EEG
 
-* Neuroscience source separation: 
-    * Playlist: https://youtu.be/xhKkl53sgwU
-    * repo: https://github.com/mikexcohen/NeuroscienceSourceSeparation
+* En general el contenido de Mike X Cohen es genial: https://www.youtube.com/channel/UCUR_LsXk7IYyueSnXcNextQ/playlists
+    * Neuroscience source separation: 
+      * Playlist: https://youtu.be/xhKkl53sgwU
+      * repo: https://github.com/mikexcohen/NeuroscienceSourceSeparation
 
 * EEGLAB youtube channel: https://www.youtube.com/channel/UCK8x1bdiHWmT0yCNEjTcEvA
     * EEGLAB introduction: https://www.youtube.com/playlist?list=PLXc9qfVbMMN2NksmDeqizCI1z5DJBlqC6
