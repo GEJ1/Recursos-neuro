@@ -20,7 +20,7 @@ Solo contenido gratuito.
       * Playlist: https://youtu.be/xhKkl53sgwU
       * repo: https://github.com/mikexcohen/NeuroscienceSourceSeparation
 
-* EEGLAB youtube channel: https://www.youtube.com/channel/UCK8x1bdiHWmT0yCNEjTcEvA
+* EEGLAB youtube channel (videos de su creador Arnaud Delorme): https://www.youtube.com/channel/UCK8x1bdiHWmT0yCNEjTcEvA
     * EEGLAB introduction: https://www.youtube.com/playlist?list=PLXc9qfVbMMN2NksmDeqizCI1z5DJBlqC6
     * General Linear Model of EEG using EEGLAB/LIMO: https://www.youtube.com/playlist?list=PLXc9qfVbMMN2Vrzte9ul3nrrG8AgB5OkU
     * ICA applied to EEG: https://www.youtube.com/playlist?list=PLXc9qfVbMMN2uDadxZ_OEsHjzcRtlLNxc
