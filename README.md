@@ -71,6 +71,8 @@ Solo contenido gratuito.
 
 # Machine Learning
 
+* El ya clásico curso de Machine Learning de Andrew Ng: https://www.youtube.com/watch?v=PPLop4L2eGk&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN&ab_channel=ArtificialIntelligence-AllinOne
+
 * A curated list of awesome machine learning frameworks, libraries and software (by language): https://github.com/josephmisiti/awesome-machine-learning
 
 # Deep Learning
