@@ -73,6 +73,8 @@ Solo contenido gratuito.
 
 * El ya clásico curso de Machine Learning de Andrew Ng: https://www.youtube.com/watch?v=PPLop4L2eGk&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN&ab_channel=ArtificialIntelligence-AllinOne
 
+* Stat-451: Intro to Machine Learning (Fall 2020) by Sebastian Raschka:  https://www.youtube.com/playlist?list=PLTKMiZHVd_2KyGirGEvKlniaWeLOHhUF3
+
 * A curated list of awesome machine learning frameworks, libraries and software (by language): https://github.com/josephmisiti/awesome-machine-learning
 
 # Deep Learning
