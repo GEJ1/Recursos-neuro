@@ -65,6 +65,9 @@ Solo contenido gratuito.
 
 * Steve Brunton explica muchos temas de matemática útiles para neurociencias (listas de: álgebra lineal, SVD,  Fourier, data science, entre otros): https://www.youtube.com/c/Eigensteve/playlists
 
+* StatQuest: https://www.youtube.com/c/joshstarmer
+    * Statistics fundamentals: https://www.youtube.com/playlist?list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9
+    * Linear regression and linear models: https://www.youtube.com/playlist?list=PLblh5JKOoLUIzaEkCLIUxQFjPIlapw8nU
 # Ciencias Cognitivas
 
 * Introduction to Cognitive Science for Undergraduates. Lectures delivered in University College Dublin in Spring 2020: https://www.youtube.com/playlist?list=PLTIeLyBa6PfJCSiIiwVhJIjl_lMZZQ-rD
@@ -74,6 +77,8 @@ Solo contenido gratuito.
 * El ya clásico curso de Machine Learning de Andrew Ng: https://www.youtube.com/watch?v=PPLop4L2eGk&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN&ab_channel=ArtificialIntelligence-AllinOne
 
 * Stat-451: Intro to Machine Learning (Fall 2020) by Sebastian Raschka:  https://www.youtube.com/playlist?list=PLTKMiZHVd_2KyGirGEvKlniaWeLOHhUF3
+
+* StatQuest Machine Learning playlist: https://www.youtube.com/playlist?list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF
 
 * A curated list of awesome machine learning frameworks, libraries and software (by language): https://github.com/josephmisiti/awesome-machine-learning
 
