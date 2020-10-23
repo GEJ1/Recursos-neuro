@@ -32,7 +32,8 @@ Solo contenido gratuito.
 # fMRI
 
 * [fMRI Bootcamp dictado por Rebecca Saxe en MIT](https://www.youtube.com/playlist?list=PLyGKBDfnk-iDVpUGSR_GlDmQrZOS0Lk6k)
- 
+
+* [Principles of fMRI by Martin Lindquist and Tor Wager](https://www.youtube.com/channel/UC_BIby85hZmcItMrkAlc8eA)
  
 # Neurociencia computacional
 
