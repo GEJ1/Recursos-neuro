@@ -4,6 +4,9 @@ Repo para ir agregando recursos en Neurociencia Cognitva, computacional y temas 
 Enfocado a cursos/tutoriales.
 Solo contenido gratuito.
 
+Si conocés a alguien que le pueda servir compartilo y si te gustó dale una estrella <!-- Place this tag where you want the button to render. -->
+<a class="github-button" href="https://github.com/GEJ1/Recursos-neuro" data-color-scheme="no-preference: dark; light: light; dark: dark;" data-icon="octicon-star" aria-label="Star GEJ1/Recursos-neuro on GitHub">Star</a>
+
 ## Temas
 - [EEG](#EEG)
 - [fMRI](#fMRI)
