@@ -10,6 +10,7 @@ Si conocés a alguien a quien le pueda servir, compartilo y si te gustó dale un
 ## Temas
 - [EEG](#EEG)
 - [fMRI](#fMRI)
+- [Eye/gaze tracking](#Eyetracking)
 - [Experimentos online](#Experimentos-online)
 - [Neurociencia computacional](#Neurociencia-computacional)
 - [Herramientas matemáticas / ciencia de datos](#Herramientas)
@@ -37,6 +38,11 @@ Si conocés a alguien a quien le pueda servir, compartilo y si te gustó dale un
 * [fMRI Bootcamp dictado por Rebecca Saxe en MIT](https://www.youtube.com/playlist?list=PLyGKBDfnk-iDVpUGSR_GlDmQrZOS0Lk6k)
 
 * [Principles of fMRI by Martin Lindquist and Tor Wager](https://www.youtube.com/channel/UC_BIby85hZmcItMrkAlc8eA)
+
+# Eyetracking
+* [Gaze tracking estimation video by learnopencv Youtube Channel](https://youtu.be/-lmc2-podgQ)
+   * In this video, we explain the problem of gaze estimation, current methods for collecting ground truth data, public datasets, and current methods for solving the      gaze estimation/tracking problem. 
+   * [blog post](https://www.learnopencv.com/gaze-tracking/)
  
 # Neurociencia computacional
 
