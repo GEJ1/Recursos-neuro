@@ -4,7 +4,7 @@ Repo para ir agregando recursos en Neurociencia Cognitva, computacional y temas 
 Enfocado a cursos/tutoriales.
 Solo contenido gratuito.
 
-Si conocés a alguien que le pueda servir compartilo y si te gustó dale una estrella :star:
+Si conocés a alguien a quien le pueda servir, compartilo y si te gustó dale una estrella :star:
 
 
 ## Temas
@@ -55,11 +55,11 @@ Si conocés a alguien que le pueda servir compartilo y si te gustó dale una est
 
 * [Data Science for Biologists. Playlist del curso de la Unversidad de Washington](https://www.youtube.com/playlist?list=PLMrJAkhIeNNQz4BMoGSsN8cbt8pHlokhV)
 
-* Class lectures for Mathematical Tools for Neural and Cognitive Science, a graduate course at NYU.  
+* Class lectures for Mathematical Tools for Neural and Cognitive Science, a graduate course at NYU. Topics include: Linear algebra, least-squares and total-least-squares regression, eigen-analysis and PCA, linear shift-invariant systems, convolution, Fourier transforms, Nyquist sampling, basics of probability and statistics, hypothesis testing, model comparison, bootstrapping, estimation and decision theory, signal detection theory, linear discriminants, classification, clustering, simple models of neural spike generation, white noise (reverse-correlation) analysis.
     * [Playlist](https://www.youtube.com/playlist?list=PLhOZWeo463baxX56-Qnt3jiG6P76a4gis)
     * [Web de la materia](http://www.cns.nyu.edu/~eero/math-tools/)
 
-* Biometría 2, materia de FCEyN (UBA) 
+* Biometría 2, materia de FCEyN (Universidad de Buenos Aires). Temas:  Modelos (lineales, no lineales, mixtos), Análisis de la varianza, regresiones, métodos de comparación multivariada, diseño de medidas repetidas, entre otros.
     * [Playlist](https://www.youtube.com/playlist?list=PLlZeP0wo7-V-FESy7Jrl-OjzZh4np3aob)
     * [Web de la materia](http://www.ege.fcen.uba.ar/academico/materias-de-grado/materias-del-ciclo-superior-segundo-cuatrimestre/materias-del-area-ecologia/biometria-ii/)
     
