@@ -77,6 +77,10 @@ Si conocés a alguien a quien le pueda servir, compartilo y si te gustó dale un
 
 * [Introduction to Cognitive Science for Undergraduates. Lectures delivered in University College Dublin in Spring 2020](https://www.youtube.com/playlist?list=PLTIeLyBa6PfJCSiIiwVhJIjl_lMZZQ-rD)
 
+* [Cognitive Neuroscience (PSY 449), University of Oregon, 2020](https://www.youtube.com/playlist?list=PL7xIGdTUcr0qpua0zaIn2KGwI_IEGS-qy)
+
+
+
 # Machine Learning
 
 * [Playlist del ya clásico curso de Machine Learning de Andrew Ng](https://www.youtube.com/watch?v=PPLop4L2eGk&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN&ab_channel=ArtificialIntelligence-AllinOne)
