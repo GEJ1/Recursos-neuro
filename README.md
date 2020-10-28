@@ -1,7 +1,7 @@
 # Recursos-neuro  🧠
 
 Repo para ir agregando recursos en Neurociencia Cognitva, computacional y temas relacionados (estadística, métodos de análisis, etc).
-Enfocado a cursos/tutoriales.
+Enfocado a cursos/tutoriales en español e inglés.
 Solo contenido gratuito.
 
 Si conocés a alguien a quien le pueda servir, compartilo y si te gustó dale una estrella :star:
