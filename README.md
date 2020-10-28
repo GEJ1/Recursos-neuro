@@ -4,7 +4,7 @@ Repo para ir agregando recursos en Neurociencia Cognitva, computacional y temas 
 Enfocado a cursos/tutoriales.
 Solo contenido gratuito.
 
-Si conocés a alguien que le pueda servir compartilo y si te gustó dale una [estrella](https://github.com/GEJ1/Recursos-neuro/star)
+Si conocés a alguien que le pueda servir compartilo y si te gustó dale una estrella :star:
 
 
 ## Temas
