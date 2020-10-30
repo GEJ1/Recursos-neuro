@@ -51,7 +51,7 @@ Si conocés a alguien a quien le pueda servir, compartilo y si te gustó dale un
 
 # Experimentos online
 
-* [Canal de Youtube de Pychopy para hacer experimentos con Python](https://www.youtube.com/playlist?list=PLFB5A1BE51964D587)
+* [Canal de Youtube de Psychopy para hacer experimentos con Python](https://www.youtube.com/playlist?list=PLFB5A1BE51964D587)
 
 * [Canal de Youtube de Josh de Leeuw, creador de jsPsych, para hacer experimento en JavaScript](https://www.youtube.com/playlist?list=PLnfo1lBY1P2Mf_o6rV5wiqqn92Mw3UTGh)
  
