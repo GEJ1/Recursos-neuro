@@ -57,6 +57,8 @@ Si conocés a alguien a quien le pueda servir, compartilo y si te gustó dale un
  
 * [Moving research online workshop 2020](https://www.youtube.com/playlist?list=PLb_Brg3lLp-2HUVoc0SpFft3lu-rQOgAe)
 
+* [Videos de la conferencia #BeOnline2020 sobre experimentos comportamentales online](https://beonline.research.sc/2020/videos)
+
 # Herramientas
 
 * [Data Science for Biologists. Playlist del curso de la Unversidad de Washington](https://www.youtube.com/playlist?list=PLMrJAkhIeNNQz4BMoGSsN8cbt8pHlokhV)
