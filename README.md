@@ -99,6 +99,8 @@ Si conocés a alguien a quien le pueda servir, compartilo y si te gustó dale un
 
 * [Repositorio: Completely free access list of resources to learn machine learning and deep learning](https://github.com/madscientist98/Machine-Learning-Deep-Learning-Resources)
 
+* [Made With ML Topics: An automatically and constantly up-to-date collection of the best ML resources by topic, curated by the community](https://madewithml.com/topics/)
+
 # Deep Learning
 
 * [Repositorio: "Open Deep Learning and Reinforcement Learning lectures from top Universities like Stanford, MIT and UC Berkeley"](https://github.com/Machine-Learning-Tokyo/AI_Curriculum)
