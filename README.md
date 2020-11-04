@@ -100,6 +100,7 @@ Si conocés a alguien a quien le pueda servir, compartilo y si te gustó dale un
 * [Repositorio: Completely free access list of resources to learn machine learning and deep learning](https://github.com/madscientist98/Machine-Learning-Deep-Learning-Resources)
 
 * [Made With ML Topics: An automatically and constantly up-to-date collection of the best ML resources by topic, curated by the community](https://madewithml.com/topics/)
+   * Realmente tiene de todo sobre el tema! (Tutoriales separados por: Frameworks, librerías, algoritmos, modelos, técnicas, áreas, etc)
 
 # Deep Learning
 
