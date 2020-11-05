@@ -101,6 +101,9 @@ Si conocés a alguien a quien le pueda servir, compartilo y si te gustó dale un
 
 * [Made With ML Topics: An automatically and constantly up-to-date collection of the best ML resources by topic, curated by the community](https://madewithml.com/topics/)
    * Realmente tiene de todo sobre el tema! (Tutoriales separados por: Frameworks, librerías, algoritmos, modelos, técnicas, áreas, etc)
+   
+* [Repositorio de la materia Aprendizaje Automático (Universidad Nacional de San Martin)](https://github.com/exord/UNSAM_IA)
+    * Valioso recurso en español, donde son más escasos. Contiene videos, slides y código. 
 
 # Deep Learning
 
