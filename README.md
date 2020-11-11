@@ -103,7 +103,8 @@ Si conocés a alguien a quien le pueda servir, compartilo y si te gustó dale un
    * Realmente tiene de todo sobre el tema! (Tutoriales separados por: Frameworks, librerías, algoritmos, modelos, técnicas, áreas, etc)
    
 * [Repositorio de la materia Aprendizaje Automático (Universidad Nacional de San Martin)](https://github.com/exord/UNSAM_IA)
-    * Valioso recurso en español, donde son más escasos. Contiene videos, slides y código. 
+    * Valioso recurso en español, donde son más escasos. Contiene videos, slides y código.
+* [Machine Learning Practico (2020). Curso en español dictado por Pablo Zivic en el Instituto de Cálculo, FCEyN, UBA](https://elsonidoq.github.io/machine-learning-practico/)
 
 # Deep Learning
 
