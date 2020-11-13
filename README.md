@@ -81,6 +81,11 @@ Si conocés a alguien a quien le pueda servir, compartilo y si te gustó dale un
     * [Statistics fundamentals](https://www.youtube.com/playlist?list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9)
     * [Linear regression and linear models](https://www.youtube.com/playlist?list=PLblh5JKOoLUIzaEkCLIUxQFjPIlapw8nU)
     
+* [Mathematical Tools for Neuroscience (Neurobio 212 at Harvard)](https://github.com/ebatty/MathToolsforNeuroscience)
+   * Curso con temática similar al de Math tools de NYU. Diferencias: Código en Python (cuadenos de Colab) en vez de Matlab y que está pensado específicamente para ser dictado online con una estética tipo Khan Academy.
+   * Temas: Álgebra lineal, estadística, ecuaciones diferenciales, Machine Learnong.
+   * La idea es lograr incluir temas variados (de matemática) que a una persona trabaje en neurociencia pueda resultarle de utilidad.
+    
 # Ciencias Cognitivas
 
 * [Introduction to Cognitive Science for Undergraduates. Lectures delivered in University College Dublin in Spring 2020](https://www.youtube.com/playlist?list=PLTIeLyBa6PfJCSiIiwVhJIjl_lMZZQ-rD)
