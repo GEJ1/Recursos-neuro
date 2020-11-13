@@ -83,7 +83,7 @@ Si conocés a alguien a quien le pueda servir, compartilo y si te gustó dale un
     
 * [Mathematical Tools for Neuroscience (Neurobio 212 at Harvard)](https://github.com/ebatty/MathToolsforNeuroscience)
    * Curso con temática similar al de Math tools de NYU. Diferencias: Código en Python (cuadenos de Colab) en vez de Matlab y que está pensado específicamente para ser dictado online con una estética tipo Khan Academy.
-   * Temas: Álgebra lineal, estadística, ecuaciones diferenciales, Machine Learnong.
+   * Temas: Álgebra lineal, estadística, ecuaciones diferenciales, sistemas dinámicos y bases de Machine Learning.
    * La idea es lograr incluir temas variados (de matemática) que a una persona trabaje en neurociencia pueda resultarle de utilidad.
     
 # Ciencias Cognitivas
