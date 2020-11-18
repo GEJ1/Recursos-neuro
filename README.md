@@ -116,5 +116,5 @@ Si conocés a alguien a quien le pueda servir, compartilo y si te gustó dale un
 * [Repositorio: "Open Deep Learning and Reinforcement Learning lectures from top Universities like Stanford, MIT and UC Berkeley"](https://github.com/Machine-Learning-Tokyo/AI_Curriculum)
 
 * [The use of Keras with Tensor Flow applied to neural models and data analysis](http://ceciliajarne.web.unq.edu.ar/cns-2020-tutorial/)
-   * This tutorial will help participants implement and explore simple neural models using Keras [1] as well as the implementation of neural networks to apply Deep  learning tools for data analysis. It will include an introduction to modeling and hands-on exercises.
+   * This tutorial will help participants implement and explore simple neural models using Keras as well as the implementation of neural networks to apply Deep  learning tools for data analysis. It will include an introduction to modeling and hands-on exercises.
    * Curso con videos + notebooks creado por Cecilia Jarne, investigadora del Departamento de Ciencia y Tecnología de la Universidad Nacional de Quilmes
