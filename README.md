@@ -112,7 +112,12 @@ Si conocés a alguien a quien le pueda servir, compartilo y si te gustó dale un
    
 * [Repositorio de la materia Aprendizaje Automático (Universidad Nacional de San Martin)](https://github.com/exord/UNSAM_IA)
     * Valioso recurso en español, donde son más escasos. Contiene videos, slides y código.
+    
 * [Machine Learning Practico (2020). Curso en español dictado por Pablo Zivic en el Instituto de Cálculo, FCEyN, UBA](https://elsonidoq.github.io/machine-learning-practico/)
+
+* [Lectures and slides for the UvA Master AI course Machine Learning 1](https://uvaml1.github.io/)
+   * El curso sigue el famoso libro de Christopher Bishop: [Pattern Recognition and Machine Learning](https://www.microsoft.com/en-us/research/people/cmbishop/prml-book/)
+   * Contiene tanto los PDF con las anotaciones de la clase como los videos del dictado de cada una de ellas.
 
 # Deep Learning
 
