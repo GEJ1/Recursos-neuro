@@ -88,6 +88,9 @@ Si conocés a alguien a quien le pueda servir, compartilo y si te gustó dale un
    
 * [Introduction to Linear Algebra for Applied Machine Learning with Python](https://pabloinsente.github.io/intro-linear-algebra)
    * Muy buen recurso para arrancar con álgebra lineal desde cero. Recomiendo la sección sobre notación matemática que, como dice el autor, suele ser uno de los problemas más grandes para quienes no venimos de ese campo.
+   
+* ["Viendo la teoria". Libro interactivo para iniciarse en nociones de probabilidad](https://seeing-theory.brown.edu/es.html#firstPage)
+   * Recurso creado por Daniel Kunin mientras era un estudiante de pregrado en la Universidad de Brown. El objetivo de la página es hacer la Estadística más accesible usando visualizaciones interactivas en el navegador.
     
 # Ciencias Cognitivas
 
