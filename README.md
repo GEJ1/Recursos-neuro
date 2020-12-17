@@ -14,6 +14,7 @@ Si conocés a alguien a quien le pueda servir, compartilo y si te gustó dale un
 - [Experimentos online](#Experimentos-online)
 - [Neurociencia computacional](#Neurociencia-computacional)
 - [Herramientas matemáticas / ciencia de datos](#Herramientas)
+- [Programacion en Python](#Python)
 - [Ciencias Cognitivas](#Ciencias-Cognitivas)
 - [Machine Learning](#Machine-Learning)
 - [Deep Learning](#Deep-Learning)
@@ -129,3 +130,20 @@ Si conocés a alguien a quien le pueda servir, compartilo y si te gustó dale un
 * [The use of Keras with Tensor Flow applied to neural models and data analysis](http://ceciliajarne.web.unq.edu.ar/cns-2020-tutorial/)
    * This tutorial will help participants implement and explore simple neural models using Keras as well as the implementation of neural networks to apply Deep  learning tools for data analysis. It will include an introduction to modeling and hands-on exercises.
    * Curso con videos + notebooks creado por Cecilia Jarne, investigadora del Departamento de Ciencia y Tecnología de la Universidad Nacional de Quilmes
+   
+# Python
+
+* [Aprendiendo Python | Curso de Python 2020 desde cero COMPLETO by Fede Yulita](https://www.youtube.com/playlist?list=PLZMkywH6sgYja6iXYNFTAcItHHvt842gH)
+  * El curso es ameno, Fede es un chico de computación en Exactas, UBA.
+  
+* [Curso PYTHON DATA SCIENCE 🐍💻 2020 en Español by Rafa Gonzalez Gouveia](https://www.youtube.com/playlist?list=PLbDLkhJ5sFvBJC6XnRSHMltAdKXI7Drw9)
+  * Muy buen canal para ciencia de datos con Python (también tiene videos con R!) en español.
+ 
+* [Canal de YouTube de CCTMéxico](https://www.youtube.com/c/cctmexico/playlists)
+  * Excelente canal mexicano con videos de temas relacionados a las ciencias básicas, programación en Python, ciencia de datos entre otros.
+
+* [Python Tutorial - Python for Beginners by Programming with Mosh](https://www.youtube.com/watch?v=_uQrJ0TkZlc&t=7s)
+  * Intro amigable.
+
+* [Python for Everybody - Full University Python Course by FreeCodeCamp](https://www.youtube.com/watch?v=8DvywoWv6fI&feature=youtu.be)
+  * Amigable pero super extenso y con explicaciones más formales.
