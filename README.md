@@ -49,7 +49,7 @@ Si conocés a alguien a quien le pueda servir, compartilo y si te gustó dale un
 
 * Todo el material de la escuela de verano neurociencia computacional [**Neuromatch Academy 2020**](https://www.neuromatchacademy.org/syllabus)
     * Incluye videos de las clases, notebooks en Google Colab, etc.
-
+* [Fleur Zeldenrust COMPUTATIONAL NEUROSCIENCE resources](https://fleurzeldenrust.nl/computational-neuroscience-resources/)
 # Experimentos online
 
 * [Canal de Youtube de Psychopy para hacer experimentos con Python](https://www.youtube.com/playlist?list=PLFB5A1BE51964D587)
