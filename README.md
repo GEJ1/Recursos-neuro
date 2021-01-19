@@ -148,3 +148,6 @@ Si conocés a alguien a quien le pueda servir, compartilo y si te gustó dale un
 
 * [Python for Everybody - Full University Python Course by FreeCodeCamp](https://www.youtube.com/watch?v=8DvywoWv6fI&feature=youtu.be)
   * Amigable pero super extenso y con explicaciones más formales.
+
+* [Python for the practicing neuroscientist: an online educational resource](https://elifesciences.org/labs/f779833b/python-for-the-practicing-neuroscientist-an-online-educational-resource)
+  * Herramientas de programación para empezar a analizar datos de neurociencias usando Python.
