@@ -51,13 +51,19 @@ Si conocés a alguien a quien le pueda servir, compartilo y si te gustó dale un
     * Incluye videos de las clases, notebooks en Google Colab, etc.
 * [Fleur Zeldenrust COMPUTATIONAL NEUROSCIENCE resources](https://fleurzeldenrust.nl/computational-neuroscience-resources/)
     * "Almost no-one coming to computational neuroscience has a degree in computational neuroscience: most have degrees in biology, physics, mathematics or AI. Therefore, I often receive the question what good introductory material is. Here, I compiled a list of some introductory material I like."
+
+
 # Experimentos online
 
 * [Canal de Youtube de Psychopy para hacer experimentos con Python](https://www.youtube.com/playlist?list=PLFB5A1BE51964D587)
 
-* [Canal de Youtube de Josh de Leeuw, creador de jsPsych, para hacer experimento en JavaScript](https://www.youtube.com/playlist?list=PLnfo1lBY1P2Mf_o6rV5wiqqn92Mw3UTGh)
+* [Canal de Youtube de Josh de Leeuw (creador de jsPsych)](https://www.youtube.com/playlist?list=PLnfo1lBY1P2Mf_o6rV5wiqqn92Mw3UTGh)
+   * [jsPsych](https://www.jspsych.org/) es una poderosa librería para hacer experimentos de psicología y neurociencias utilizando el lenguaje javaScript.
  
 * [Moving research online workshop 2020](https://www.youtube.com/playlist?list=PLb_Brg3lLp-2HUVoc0SpFft3lu-rQOgAe)
+
+* [jsPsych tutorials by Winson Yang](https://www.youtube.com/playlist?list=PLtdKTIOUlb42qG962wz30fzlUMibJCGQW)
+   * Muy buenos tutoriales para aprender a usar la librería jsPsych.
 
 * [Videos de la conferencia #BeOnline2020 sobre experimentos comportamentales online](https://beonline.research.sc/2020/videos)
 
