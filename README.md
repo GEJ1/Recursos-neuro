@@ -92,6 +92,7 @@ Si conocés a alguien a quien le pueda servir, compartilo y si te gustó dale un
 * [StatQuest: Canal de Youtube de Josh Starmer](https://www.youtube.com/c/joshstarmer)
     * [Statistics fundamentals](https://www.youtube.com/playlist?list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9)
     * [Linear regression and linear models](https://www.youtube.com/playlist?list=PLblh5JKOoLUIzaEkCLIUxQFjPIlapw8nU)
+    * [Índice conteniendo todos los videos](https://statquest.org/video-index/)
     
 * [Mathematical Tools for Neuroscience (Neurobio 212 at Harvard)](https://github.com/ebatty/MathToolsforNeuroscience)
    * Curso con temática similar al de Math tools de NYU. Diferencias: Código en Python (cuadenos de Colab) en vez de Matlab y que está pensado específicamente para ser dictado online con una estética tipo Khan Academy.
