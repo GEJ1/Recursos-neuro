@@ -56,6 +56,9 @@ Si conocés a alguien a quien le pueda servir, compartilo y si te gustó dale un
 * [Fleur Zeldenrust COMPUTATIONAL NEUROSCIENCE resources](https://fleurzeldenrust.nl/computational-neuroscience-resources/)
     * "Almost no-one coming to computational neuroscience has a degree in computational neuroscience: most have degrees in biology, physics, mathematics or AI. Therefore, I often receive the question what good introductory material is. Here, I compiled a list of some introductory material I like."
 
+* [Repositorio: awesome-neuroscience](https://github.com/analyticalmonk/awesome-neuroscience)
+   * Lista curada de bibliotecas de neurociencia, software y cualquier contenido relacionado con el tema.
+
 
 # Experimentos online
 
