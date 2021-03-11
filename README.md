@@ -101,6 +101,10 @@ Si conocés a alguien a quien le pueda servir, compartilo y si te gustó dale un
    * Curso con temática similar al de Math tools de NYU. Diferencias: Código en Python (cuadenos de Colab) en vez de Matlab y que está pensado específicamente para ser dictado online con una estética tipo Khan Academy.
    * Temas: Álgebra lineal, estadística, ecuaciones diferenciales, sistemas dinámicos y bases de Machine Learning.
    * La idea es lograr incluir temas variados (de matemática) que a una persona trabaje en neurociencia pueda resultarle de utilidad.
+
+*[Introduction to Mathematics and Python using Neuroscience Examples](https://github.com/john-s-butler-dit/Basic-Introduction-to-Python)
+   * Se propone como una breve introducción a las herramientas matematicas en Python.
+   * Una buena opción previa a Mathematical Tools for Neuroscience (Neurobio 212 at Harvard)   
    
 * [Introduction to Linear Algebra for Applied Machine Learning with Python](https://pabloinsente.github.io/intro-linear-algebra)
    * Muy buen recurso para arrancar con álgebra lineal desde cero. Recomiendo la sección sobre notación matemática que, como dice el autor, suele ser uno de los problemas más grandes para quienes no venimos de ese campo.
