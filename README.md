@@ -33,6 +33,9 @@ Si conocés a alguien a quien le pueda servir, compartilo y si te gustó dale un
     * [General Linear Model of EEG using EEGLAB/LIMO](https://www.youtube.com/playlist?list=PLXc9qfVbMMN2Vrzte9ul3nrrG8AgB5OkU)
     * [ICA applied to EEG](https://www.youtube.com/playlist?list=PLXc9qfVbMMN2uDadxZ_OEsHjzcRtlLNxc)
     * [Time-Frequency Analysis of EEG Time Series](https://www.youtube.com/playlist?list=PLXc9qfVbMMN2TAoLHVW5NvNmJtwiHurzw)
+
+* [Resources for ERP research](https://erpinfo.org/resources)
+   * Recursos sobre Potenciales Relacionados a Eventos (Universidad de California en Davis).   
     
 # fMRI
 
