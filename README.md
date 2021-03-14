@@ -152,6 +152,13 @@ Si conocés a alguien a quien le pueda servir, compartilo y si te gustó dale un
 * [The use of Keras with Tensor Flow applied to neural models and data analysis](http://ceciliajarne.web.unq.edu.ar/cns-2020-tutorial/)
    * This tutorial will help participants implement and explore simple neural models using Keras as well as the implementation of neural networks to apply Deep  learning tools for data analysis. It will include an introduction to modeling and hands-on exercises.
    * Curso con videos + notebooks creado por Cecilia Jarne, investigadora del Departamento de Ciencia y Tecnología de la Universidad Nacional de Quilmes
+
+
+* Designing, Visualizing and Understanding Deep Neural Networks (CS W182 / 282A) (2021 edition)
+   * All the lectures for the Sergey Levine's deep 182 learning class. This is an introductory deep learning course (advanced undergraduate + graduate) covering a broad range of deep learning topics.
+   * [Website](https://cs182sp21.github.io/)
+   * [Playlist](https://m.youtube.com/playlist?list=PL_iWQOsE6TfVmKkQHucjPAoRtIJYt8a5A)
+
    
 # Python
 
