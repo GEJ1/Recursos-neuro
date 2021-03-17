@@ -35,7 +35,10 @@ Si conocés a alguien a quien le pueda servir, compartilo y si te gustó dale un
     * [Time-Frequency Analysis of EEG Time Series](https://www.youtube.com/playlist?list=PLXc9qfVbMMN2TAoLHVW5NvNmJtwiHurzw)
 
 * [Resources for ERP research](https://erpinfo.org/resources)
-   * Recursos sobre Potenciales Relacionados a Eventos (Universidad de California en Davis).   
+   * Recursos sobre Potenciales Relacionados a Eventos (Universidad de California en Davis). 
+
+* [MNE Tutorials for EEG anaysis in Python](https://mne.tools/dev/auto_tutorials/) 
+   * MNE es la libreria de Python mas usada para analizar datos de Electroencefalogrfia (EEG).
     
 # fMRI
 
