@@ -126,7 +126,7 @@ Si conocés a alguien a quien le pueda servir, compartilo y si te gustó dale un
 
 * [Canal de Youtube de Andres Farall](https://www.youtube.com/channel/UC5Rup8Tq90zOekekkNlSdRQ/playlists)
    * Videos sobre Ciencia de Datos con implementaciones prácticas en R.
-   Los videos subidos a este canal comprenden los recursos asincrónicos de los cursos de posgrado que dicto regularmente en la Facultad de Ciencias Exactas y    Naturales de la UBA. Algunos de estos cursos son:
+   Los videos subidos a este canal comprenden los recursos asincrónicos de los cursos de posgrado que dicta regularmente en la Facultad de Ciencias Exactas y    Naturales de la Universidad de Buenos Aires. Algunos de estos cursos son:
    Enfoque Estadístico del Aprendizaje (Maestría en "Data Mining")
    Introducción al Análisis Multivariado (Carrera de Especialización en Estadística para profesionales en Ciencias de la Salud)
    Ciencia de Datos con R (Materia optativa de grado y posgrado)
