@@ -123,7 +123,15 @@ Si conocés a alguien a quien le pueda servir, compartilo y si te gustó dale un
    
 * ["Viendo la teoria". Libro interactivo para iniciarse en nociones de probabilidad](https://seeing-theory.brown.edu/es.html#firstPage)
    * Recurso creado por Daniel Kunin mientras era un estudiante de pregrado en la Universidad de Brown. El objetivo de la página es hacer la Estadística más accesible usando visualizaciones interactivas en el navegador.
-    
+
+* [Canal de Youtube de Andres Farall](https://www.youtube.com/channel/UC5Rup8Tq90zOekekkNlSdRQ/playlists)
+   * Videos sobre Ciencia de Datos con implementaciones prácticas en R.
+   Los videos subidos a este canal comprenden los recursos asincrónicos de los cursos de posgrado que dicto regularmente en la Facultad de Ciencias Exactas y    Naturales de la UBA. Algunos de estos cursos son:
+   Enfoque Estadístico del Aprendizaje (Maestría en "Data Mining")
+   Introducción al Análisis Multivariado (Carrera de Especialización en Estadística para profesionales en Ciencias de la Salud)
+   Ciencia de Datos con R (Materia optativa de grado y posgrado)
+   Técnicas Avanzadas de Regresión (Carrera de Especialización en Estadística para profesionales en Ciencias de la Salud)
+
 # Ciencias Cognitivas
 
 * [Introduction to Cognitive Science for Undergraduates. Lectures delivered in University College Dublin in Spring 2020](https://www.youtube.com/playlist?list=PLTIeLyBa6PfJCSiIiwVhJIjl_lMZZQ-rD)
