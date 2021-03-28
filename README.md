@@ -162,6 +162,8 @@ Si conocés a alguien a quien le pueda servir, compartilo y si te gustó dale un
    * El curso sigue el famoso libro de Christopher Bishop: [Pattern Recognition and Machine Learning](https://www.microsoft.com/en-us/research/people/cmbishop/prml-book/)
    * Contiene tanto los PDF con las anotaciones de la clase como los videos del dictado de cada una de ellas.
 
+* [MIT's 6.036 course: Introduction to Machine Learning by Tamara Broderick (2020)](http://people.csail.mit.edu/tbroderick//ml.html)   
+   * Contenido del curso: slides + videos en Youtube.
 
 # Deep Learning
 
@@ -177,8 +179,7 @@ Si conocés a alguien a quien le pueda servir, compartilo y si te gustó dale un
    * [Website](https://cs182sp21.github.io/)
    * [Playlist](https://m.youtube.com/playlist?list=PL_iWQOsE6TfVmKkQHucjPAoRtIJYt8a5A)
 
-* [MIT's 6.036 course: Introduction to Machine Learning (2020)](http://people.csail.mit.edu/tbroderick//ml.html)   
-   * Contenido del curso: slides + videos en Youtube.
+
 # Python
 
 * [Aprendiendo Python | Curso de Python 2020 desde cero COMPLETO by Fede Yulita](https://www.youtube.com/playlist?list=PLZMkywH6sgYja6iXYNFTAcItHHvt842gH)
