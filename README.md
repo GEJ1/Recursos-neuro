@@ -179,6 +179,9 @@ Si conocés a alguien a quien le pueda servir, compartilo y si te gustó dale un
    * [Website](https://cs182sp21.github.io/)
    * [Playlist](https://m.youtube.com/playlist?list=PL_iWQOsE6TfVmKkQHucjPAoRtIJYt8a5A)
 
+* [Recurrent Neural Network (RNN) for Neuroscience Tutorial Materials by Kanaka Rajan](https://www.rajanlab.com/resources)
+   * El mejor recurso que he visto sobre RNNs en neurociencias. Todo el material del curso dictado en el congreso COSYNE 2021
+
 
 # Python
 
