@@ -13,6 +13,7 @@ Si conocés a alguien a quien le pueda servir, compartilo y si te gustó dale un
 - [Eye/gaze tracking](#Eyetracking)
 - [Experimentos online](#Experimentos-online)
 - [Neurociencia computacional](#Neurociencia-computacional)
+- [Neuroanatomía](#Neuroanatomia)
 - [Herramientas matemáticas / ciencia de datos](#Herramientas)
 - [Programacion en Python](#Python)
 - [Ciencias Cognitivas](#Ciencias-Cognitivas)
@@ -71,6 +72,10 @@ Si conocés a alguien a quien le pueda servir, compartilo y si te gustó dale un
 * [STATS320: Machine Learning Methods for Neural Data Analysis 2021](https://github.com/slinderman/stats320)
    * Repo de la materia de Stanford University. Algunos de los temas:  Spike sorting algorithm , Kilosort: Spike sorting by Deconvolution, CNMF: Calcium          deconvolution via constrained NMF, DeepLabCut: Markerless pose tracking with CNNs, DeepRetina: Deep encoding models of retinal spike trains, Kalman Smoothers: Decoding movement from neural data, MoSeq: Autoregressive HMMs for animal movements, SLDS: Switching LDS model of neural data
 
+# Neuroanatomía
+
+* [FUNCTIONAL NEUROANATOMY resources from The University of British Columbia](http://www.neuroanatomy.ca/)
+   * Excelente material interactivo proporcionado por la Dra. Cladudia Krebs.
 
 # Experimentos online
 
