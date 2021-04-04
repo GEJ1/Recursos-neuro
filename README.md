@@ -75,7 +75,7 @@ Si conocés a alguien a quien le pueda servir, compartilo y si te gustó dale un
 # Neuroanatomia
 
 * [FUNCTIONAL NEUROANATOMY resources from The University of British Columbia](http://www.neuroanatomy.ca/)
-   * Excelente material interactivo proporcionado por la Dra. Cladudia Krebs.
+   * Excelente material interactivo proporcionado por la Dra. Claudia Krebs.
 
 # Experimentos online
 
