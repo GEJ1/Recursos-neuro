@@ -136,6 +136,10 @@ Si conocés a alguien a quien le pueda servir, compartilo y si te gustó dale un
    Introducción al Análisis Multivariado (Carrera de Especialización en Estadística para profesionales en Ciencias de la Salud)
    Ciencia de Datos con R (Materia optativa de grado y posgrado)
    Técnicas Avanzadas de Regresión (Carrera de Especialización en Estadística para profesionales en Ciencias de la Salud)
+   
+* [Material de la materia "Laboratorio de Datos" (Universidad de Buenos Aires)](http://materias.df.uba.ar/lda2021c1/171-2/)
+   * Excelente contenido en español sobre análisis de datos y Machine Learning con Python: Videos, slides y notebooks
+   * Algunos de los temas abarcados: análisis exploratorio de datos numéricos, modelos de regresión, modelos de clasificación, clustering y reducción de la dimensionalidad, obtención de datos, datos no numéricos, introducción al procesamiento del lenguaje natural.
 
 # Ciencias Cognitivas
 
