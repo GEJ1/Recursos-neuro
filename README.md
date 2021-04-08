@@ -20,8 +20,6 @@ Si conocés a alguien a quien le pueda servir, compartilo y si te gustó dale un
 - [Machine Learning](#Machine-Learning)
 - [Deep Learning](#Deep-Learning)
 
-
-
 # EEG
 
 * En general el contenido de Mike X Cohen es genial. [Su canal](https://www.youtube.com/channel/UCUR_LsXk7IYyueSnXcNextQ/playlists)
@@ -119,7 +117,7 @@ Si conocés a alguien a quien le pueda servir, compartilo y si te gustó dale un
    * Temas: Álgebra lineal, estadística, ecuaciones diferenciales, sistemas dinámicos y bases de Machine Learning.
    * La idea es lograr incluir temas variados (de matemática) que a una persona trabaje en neurociencia pueda resultarle de utilidad.
 
-*[Introduction to Mathematics and Python using Neuroscience Examples](https://github.com/john-s-butler-dit/Basic-Introduction-to-Python)
+* [Introduction to Mathematics and Python using Neuroscience Examples](https://github.com/john-s-butler-dit/Basic-Introduction-to-Python)
    * Se propone como una breve introducción a las herramientas matematicas en Python.
    * Una buena opción previa a Mathematical Tools for Neuroscience (Neurobio 212 at Harvard)   
    
@@ -150,7 +148,6 @@ Si conocés a alguien a quien le pueda servir, compartilo y si te gustó dale un
 * [Introduction to Cognitive Science for Undergraduates. Lectures delivered in University College Dublin in Spring 2020](https://www.youtube.com/playlist?list=PLTIeLyBa6PfJCSiIiwVhJIjl_lMZZQ-rD)
 
 * [Cognitive Neuroscience (PSY 449), University of Oregon, 2020](https://www.youtube.com/playlist?list=PL7xIGdTUcr0qpua0zaIn2KGwI_IEGS-qy)
-
 
 
 # Machine Learning
@@ -194,7 +191,6 @@ Si conocés a alguien a quien le pueda servir, compartilo y si te gustó dale un
 
 * [Recurrent Neural Network (RNN) for Neuroscience Tutorial Materials by Kanaka Rajan](https://www.rajanlab.com/resources)
    * El mejor recurso que he visto sobre RNNs en neurociencias. Todo el material del curso dictado en el congreso COSYNE 2021
-
 
 # Python
 
