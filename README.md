@@ -141,6 +141,10 @@ Si conocés a alguien a quien le pueda servir, compartilo y si te gustó dale un
    * Excelente contenido en español sobre análisis de datos y Machine Learning con Python: Videos, slides y notebooks
    * Algunos de los temas abarcados: análisis exploratorio de datos numéricos, modelos de regresión, modelos de clasificación, clustering y reducción de la dimensionalidad, obtención de datos, datos no numéricos, introducción al procesamiento del lenguaje natural.
 
+* [NSCI 801: Quantitative Neuroscience by Dr Gunnar BLOHM](https://github.com/BlohmLab/NSCI801-QuantNeuro)
+   * Todo el material del curso de Neurociencia cuantitativa utilizando Python y Google Colab 
+   * Temas: Intro Python, Advanced Python, Data collection / signal processing, Statistics and Hypothesis testing - basics, Statistics and Hypothesis testing - advanced, Quantitative wet lab / bench methods , Statistics and Hypothesis testing - Bayesian, Models in Neuroscience, Data Neuroscience overview , Correlation vs causality, Reproducibility, reliability, validity, 
+
 # Ciencias Cognitivas
 
 * [Introduction to Cognitive Science for Undergraduates. Lectures delivered in University College Dublin in Spring 2020](https://www.youtube.com/playlist?list=PLTIeLyBa6PfJCSiIiwVhJIjl_lMZZQ-rD)
