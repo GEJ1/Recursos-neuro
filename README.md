@@ -175,6 +175,10 @@ Si conocés a alguien a quien le pueda servir, compartilo y si te gustó dale un
 * [MIT's 6.036 course: Introduction to Machine Learning by Tamara Broderick (2020)](http://people.csail.mit.edu/tbroderick//ml.html)   
    * Contenido del curso: slides + videos en Youtube.
 
+* ["Aprendizaje de Máquinas 2021" (Universidad de Chile)](https://github.com/GAMES-UChile/Curso-Aprendizaje-de-Maquinas)
+   * Curso completo con videos, notebooks y ejercicios. Completamente en español.
+   * Temas: Introducción: ¿qué es la Inteligencia Artificial y cómo se relaciona con el AM? , Regresión, Clasificación, Selección y evaluación de modelos, Máquinas de soporte vectorial, Aprendizaje no supervisado, Redes neuronales, Process Gaussianos.
+
 # Deep Learning
 
 * [Repositorio: "Open Deep Learning and Reinforcement Learning lectures from top Universities like Stanford, MIT and UC Berkeley"](https://github.com/Machine-Learning-Tokyo/AI_Curriculum)
