@@ -179,6 +179,10 @@ Si conocés a alguien a quien le pueda servir, compartilo y si te gustó dale un
    * Curso completo con videos, notebooks y ejercicios. Completamente en español.
    * Temas: Introducción: ¿qué es la Inteligencia Artificial y cómo se relaciona con el AM? , Regresión, Clasificación, Selección y evaluación de modelos, Máquinas de soporte vectorial, Aprendizaje no supervisado, Redes neuronales, Process Gaussianos.
 
+* [CS224W: Machine Learning with Graphs | Stanford | Winter 2021](http://web.stanford.edu/class/cs224w/) 
+   * What is this course about? Complex data can be represented as a graph of relationships between objects. Such networks are a fundamental tool for modeling social, technological, and biologic  al systems. This course focuses on the computational, algorithmic, and modeling challenges specific to the analysis of massive graphs. By means of studying the underlying graph structure and its features, students are introduced to machine learning techniques and data mining tools apt to reveal insights on a variety of networks.
+   * Todos los videos de las clases, ejercicios y notebooks.
+
 # Deep Learning
 
 * [Repositorio: "Open Deep Learning and Reinforcement Learning lectures from top Universities like Stanford, MIT and UC Berkeley"](https://github.com/Machine-Learning-Tokyo/AI_Curriculum)
