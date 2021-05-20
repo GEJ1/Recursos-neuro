@@ -45,6 +45,8 @@ Si conocés a alguien a quien le pueda servir, compartilo y si te gustó dale un
 
 * [Principles of fMRI by Martin Lindquist and Tor Wager](https://www.youtube.com/channel/UC_BIby85hZmcItMrkAlc8eA)
 
+* [Multivariate pattern analysis by Martin Hebart](https://fmrif.nimh.nih.gov/public/other-courses/mvpa)
+
 # Eyetracking
 
 * [PyGaze: Open-source toolbox for eye tracking in Python](http://www.pygaze.org/)
