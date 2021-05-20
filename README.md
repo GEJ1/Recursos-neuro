@@ -69,6 +69,8 @@ Si conocés a alguien a quien le pueda servir, compartilo y si te gustó dale un
 * [Repositorio: awesome-neuroscience](https://github.com/analyticalmonk/awesome-neuroscience)
    * Lista curada de bibliotecas de neurociencia, software y cualquier contenido relacionado con el tema.
 
+* [Essentials of Neuroscience with MATLAB by Mike X Cohen](http://sincxpress.com/neuroscience)
+
 * [STATS320: Machine Learning Methods for Neural Data Analysis 2021](https://github.com/slinderman/stats320)
    * Repo de la materia de Stanford University. Algunos de los temas:  Spike sorting algorithm , Kilosort: Spike sorting by Deconvolution, CNMF: Calcium          deconvolution via constrained NMF, DeepLabCut: Markerless pose tracking with CNNs, DeepRetina: Deep encoding models of retinal spike trains, Kalman Smoothers: Decoding movement from neural data, MoSeq: Autoregressive HMMs for animal movements, SLDS: Switching LDS model of neural data
 
