@@ -204,7 +204,7 @@ Si conocés a alguien a quien le pueda servir, compartilo y si te gustó dale un
 * [Recurrent Neural Network (RNN) for Neuroscience Tutorial Materials by Kanaka Rajan](https://www.rajanlab.com/resources)
    * El mejor recurso que he visto sobre RNNs en neurociencias. Todo el material del curso dictado en el congreso COSYNE 2021
 * [Deep Learning for Computer Vision: Fundamentals and Applications Spring 2021 (Weizmann Institute of Science) ](https://dl4cv.github.io/index.html)
- * [Lista de videos en Youtube](https://youtube.com/playlist?list=PLUgbVHjDharjSSHF1EQq6h8FFp4XEX5AF)
+   * [Lista de videos en Youtube](https://youtube.com/playlist?list=PLUgbVHjDharjSSHF1EQq6h8FFp4XEX5AF)
 
 # Python
 
