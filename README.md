@@ -2,9 +2,13 @@
 
 Repo para ir agregando recursos en Neurociencia Cognitva, computacional y temas relacionados (estadística, métodos de análisis, Machine Learning, etc).
 Enfocado a cursos/tutoriales en español e inglés.
-Solo contenido gratuito.
+Solo contenido gratuito. 
 
 Si conocés a alguien a quien le pueda servir, compartilo y si te gustó dale una estrella :star:
+
+Si deseas agregar un recurso podés hacer un pull request (si no sabes cómo fijate [acá](https://www.freecodecamp.org/espanol/news/como-hacer-tu-primer-pull-request-en-github/))
+
+
 
 
 ## Temas
