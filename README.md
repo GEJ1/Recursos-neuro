@@ -20,6 +20,7 @@ Si deseas agregar un recurso podés hacer un pull request (si no sabes cómo fij
 - [Neuroanatomía](#Neuroanatomia)
 - [Herramientas matemáticas / ciencia de datos](#Herramientas)
 - [Programacion en Python](#Python)
+- [Programacion en R](#R)
 - [Ciencias Cognitivas](#Ciencias-Cognitivas)
 - [Machine Learning](#Machine-Learning)
 - [Deep Learning](#Deep-Learning)
@@ -236,3 +237,5 @@ Si deseas agregar un recurso podés hacer un pull request (si no sabes cómo fij
 
 * [Python for the practicing neuroscientist: an online educational resource](https://elifesciences.org/labs/f779833b/python-for-the-practicing-neuroscientist-an-online-educational-resource)
   * Herramientas de programación para empezar a analizar datos de neurociencias usando Python.
+
+# R
