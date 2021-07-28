@@ -154,7 +154,7 @@ Si deseas agregar un recurso podés hacer un pull request (si no sabes cómo fij
 * [Stanford's "Introduction to Statistics"](https://www.coursera.org/learn/stanford-statistics) 
    * Curso de coursera introductorio con los siguientes temas: Estadística descriptiva, Muestreo y Experimentos Controlados Aleatorizados, Probabilidad, Distribuciones de Muestreo y Teorema Central del Limite, Regresión, Pruebas Comunes de Significancia, Remuestreo, Comparaciones Múltiples.
 
-*[Computational linear algebra by Rachel Thomas](https://www.fast.ai/2017/07/17/num-lin-alg/)
+* [Computational linear algebra by Rachel Thomas](https://www.fast.ai/2017/07/17/num-lin-alg/)
    * Excelente curso de una de las creadoras de [fast.ai](https://www.fast.ai/), con un enfoque fuertemente práctico.
    * Repo con el contenido del curso: https://github.com/fastai/numerical-linear-algebra
 
