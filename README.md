@@ -239,3 +239,9 @@ Si deseas agregar un recurso podés hacer un pull request (si no sabes cómo fij
   * Herramientas de programación para empezar a analizar datos de neurociencias usando Python.
 
 # R
+
+* ["Learn R for free"](https://www.learnr4free.com/)
+  * Tiene todo tipo de recursos (libros, videos, sitios web interactivos, artículos) para aprender R. Algunos son para principiantes y comienzan desde el proceso de instalación de R. 
+  * Tiene versión en español!
+
+
