@@ -151,6 +151,13 @@ Si deseas agregar un recurso podés hacer un pull request (si no sabes cómo fij
    * Todo el material del curso de Neurociencia cuantitativa utilizando Python y Google Colab 
    * Temas: Intro Python, Advanced Python, Data collection / signal processing, Statistics and Hypothesis testing - basics, Statistics and Hypothesis testing - advanced, Quantitative wet lab / bench methods , Statistics and Hypothesis testing - Bayesian, Models in Neuroscience, Data Neuroscience overview , Correlation vs causality, Reproducibility, reliability, validity, 
 
+* [Stanford's "Introduction to Statistics"](https://www.coursera.org/learn/stanford-statistics) 
+   * Curso de coursera introductorio con los siguientes temas: Estadística descriptiva, Muestreo y Experimentos Controlados Aleatorizados, Probabilidad, Distribuciones de Muestreo y Teorema Central del Limite, Regresión, Pruebas Comunes de Significancia, Remuestreo, Comparaciones Múltiples.
+
+*[Computational linear algebra by Rachel Thomas](https://www.fast.ai/2017/07/17/num-lin-alg/)
+   * Excelente curso de una de las creadoras de [fast.ai](https://www.fast.ai/), con un enfoque fuertemente práctico.
+   * Repo con el contenido del curso: https://github.com/fastai/numerical-linear-algebra
+
 # Ciencias Cognitivas
 
 * [Introduction to Cognitive Science for Undergraduates. Lectures delivered in University College Dublin in Spring 2020](https://www.youtube.com/playlist?list=PLTIeLyBa6PfJCSiIiwVhJIjl_lMZZQ-rD)
