@@ -165,6 +165,8 @@ Si deseas agregar un recurso podés hacer un pull request (si no sabes cómo fij
 
 * [Cognitive Neuroscience (PSY 449), University of Oregon, 2020](https://www.youtube.com/playlist?list=PL7xIGdTUcr0qpua0zaIn2KGwI_IEGS-qy)
 
+* [Fundamentals of Cognitive Neuroscience by Hamed Ekhtiari](https://youtube.com/playlist?list=PLoYAKQ4_GWnDKeZwTjxNE2LkLyXil96mt)
+   * 87 videos cubriendo gran cantidad de contenidos de neurociencias cognitivas.
 
 # Machine Learning
 
