@@ -15,7 +15,7 @@ Si deseas agregar un recurso podés hacer un pull request (si no sabes cómo fij
 - [EEG](#EEG)
 - [fMRI](#fMRI)
 - [Eye/gaze tracking](#Eyetracking)
-- [Experimentos online](#Experimentos-online)
+- [Software para crear experimentos (online y offline)](#Experimentos)
 - [Neurociencia computacional](#Neurociencia-computacional)
 - [Neuroanatomía](#Neuroanatomia)
 - [Herramientas matemáticas / ciencia de datos](#Herramientas)
@@ -84,9 +84,11 @@ Si deseas agregar un recurso podés hacer un pull request (si no sabes cómo fij
 * [FUNCTIONAL NEUROANATOMY resources from The University of British Columbia](http://www.neuroanatomy.ca/)
    * Excelente material interactivo proporcionado por la Dra. Claudia Krebs.
 
-# Experimentos online
+# Experimentos
 
 * [Canal de Youtube de Psychopy para hacer experimentos con Python](https://www.youtube.com/playlist?list=PLFB5A1BE51964D587)
+
+* [Recursos para aprender y enseñar Psychopy](https://workshops.psychopy.org/teaching/index.html) 
 
 * [Canal de Youtube de Josh de Leeuw (creador de jsPsych)](https://www.youtube.com/playlist?list=PLnfo1lBY1P2Mf_o6rV5wiqqn92Mw3UTGh)
    * [jsPsych](https://www.jspsych.org/) es una poderosa librería para hacer experimentos de psicología y neurociencias utilizando el lenguaje javaScript.
