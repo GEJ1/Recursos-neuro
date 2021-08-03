@@ -220,6 +220,9 @@ Si deseas agregar un recurso podés hacer un pull request (si no sabes cómo fij
 * [Deep Learning for Computer Vision: Fundamentals and Applications Spring 2021 (Weizmann Institute of Science) ](https://dl4cv.github.io/index.html)
    * [Lista de videos en Youtube](https://youtube.com/playlist?list=PLUgbVHjDharjSSHF1EQq6h8FFp4XEX5AF)
 
+* [awesome-neuro-ai-papers](https://github.com/CYHSM/awesome-neuro-ai-papers)
+   * Recopilación de papers en la intersección entre la Neurociencia y el Deep Learning.
+
 # Python
 
 * [Aprendiendo Python | Curso de Python 2020 desde cero COMPLETO by Fede Yulita](https://www.youtube.com/playlist?list=PLZMkywH6sgYja6iXYNFTAcItHHvt842gH)
