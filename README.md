@@ -44,7 +44,7 @@ Si deseas agregar un recurso podés hacer un pull request (si no sabes cómo fij
 * [MNE Tutorials for EEG anaysis in Python](https://mne.tools/dev/auto_tutorials/) 
    * MNE es la libreria de Python mas usada para analizar datos de Electroencefalogrfia (EEG).
 
-* [MNE in Python Berdakh Abibullaev](https://youtube.com/playlist?list=PLXtvZiGkmNVvPS0N9UNBVkIFe0_0t_Nqt)
+* [MNE in Python by Berdakh Abibullaev](https://youtube.com/playlist?list=PLXtvZiGkmNVvPS0N9UNBVkIFe0_0t_Nqt)
    * Muy interesante lista de reproducción con tutoriales para aprender a usar MNE.  
     
 # fMRI
