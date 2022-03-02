@@ -164,6 +164,9 @@ Si deseas agregar un recurso podés hacer un pull request (si no sabes cómo fij
    * Excelente curso de una de las creadoras de [fast.ai](https://www.fast.ai/), con un enfoque fuertemente práctico.
    * Repo con el contenido del curso: https://github.com/fastai/numerical-linear-algebra
 
+* [Mathematical Tools for Data Science dictado por Carlos Fernandez-Granda (NYU University)](https://cds.nyu.edu/math-tools/)
+   * [Repo](https://github.com/cfgranda/math-tools-nyu)
+
 # Ciencias Cognitivas
 
 * [Introduction to Cognitive Science for Undergraduates. Lectures delivered in University College Dublin in Spring 2020](https://www.youtube.com/playlist?list=PLTIeLyBa6PfJCSiIiwVhJIjl_lMZZQ-rD)
