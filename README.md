@@ -251,6 +251,10 @@ Si deseas agregar un recurso podés hacer un pull request (si no sabes cómo fij
 * [Python for the practicing neuroscientist: an online educational resource](https://elifesciences.org/labs/f779833b/python-for-the-practicing-neuroscientist-an-online-educational-resource)
   * Herramientas de programación para empezar a analizar datos de neurociencias usando Python.
 
+* [Neuromatch Deep Learning 2021](https://deeplearning.neuromatch.io/tutorials/intro.html)
+  * Contenido de la excelente escuela de verano de [Neuromatch](https://neuromatch.io/) sobre Deep Learning. 
+  * Sirve para aprender Deep Learning en general pero las aplicaciones son principalmente en neurociencias.  
+
 # R
 
 * ["Learn R for free"](https://www.learnr4free.com/)
