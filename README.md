@@ -2,7 +2,7 @@
 
 Repo para ir agregando recursos en Neurociencia Cognitva, computacional y temas relacionados (estadística, métodos de análisis, Machine Learning, etc).
 Enfocado a cursos/tutoriales en español e inglés.
-Solo contenido gratuito. 
+Solo contenido gratuito.
 
 Si conocés a alguien a quien le pueda servir, compartilo y si te gustó dale una estrella :star:
 
@@ -28,7 +28,7 @@ Si deseas agregar un recurso podés hacer un pull request (si no sabes cómo fij
 # EEG
 
 * En general el contenido de Mike X Cohen es genial. [Su canal](https://www.youtube.com/channel/UCUR_LsXk7IYyueSnXcNextQ/playlists)
-    * Neuroscience source separation: 
+    * Neuroscience source separation:
       * [Playlist](https://youtu.be/xhKkl53sgwU)
       * [Repositorio](https://github.com/mikexcohen/NeuroscienceSourceSeparation)
 
@@ -39,14 +39,14 @@ Si deseas agregar un recurso podés hacer un pull request (si no sabes cómo fij
     * [Time-Frequency Analysis of EEG Time Series](https://www.youtube.com/playlist?list=PLXc9qfVbMMN2TAoLHVW5NvNmJtwiHurzw)
 
 * [Resources for ERP research](https://erpinfo.org/resources)
-   * Recursos sobre Potenciales Relacionados a Eventos (Universidad de California en Davis). 
+   * Recursos sobre Potenciales Relacionados a Eventos (Universidad de California en Davis).
 
-* [MNE Tutorials for EEG anaysis in Python](https://mne.tools/dev/auto_tutorials/) 
+* [MNE Tutorials for EEG anaysis in Python](https://mne.tools/dev/auto_tutorials/)
    * MNE es la libreria de Python mas usada para analizar datos de Electroencefalogrfia (EEG).
 
 * [MNE in Python by Berdakh Abibullaev](https://youtube.com/playlist?list=PLXtvZiGkmNVvPS0N9UNBVkIFe0_0t_Nqt)
    * Muy interesante lista de reproducción con tutoriales para aprender a usar MNE.  
-    
+
 # fMRI
 
 * [fMRI Bootcamp dictado por Rebecca Saxe en MIT](https://www.youtube.com/playlist?list=PLyGKBDfnk-iDVpUGSR_GlDmQrZOS0Lk6k)
@@ -61,12 +61,12 @@ Si deseas agregar un recurso podés hacer un pull request (si no sabes cómo fij
    * La principal opcion para analizar movimientos oculares en Python
 
 * [Gaze tracking estimation video by learnopencv Youtube Channel](https://youtu.be/-lmc2-podgQ)
-   * In this video, we explain the problem of gaze estimation, current methods for collecting ground truth data, public datasets, and current methods for solving the      gaze estimation/tracking problem. 
+   * In this video, we explain the problem of gaze estimation, current methods for collecting ground truth data, public datasets, and current methods for solving the      gaze estimation/tracking problem.
    * [blog post](https://www.learnopencv.com/gaze-tracking/)
 
 * [WebGazer.js](https://webgazer.cs.brown.edu/)
    * WebGazer.js is an eye tracking library that uses common webcams to infer the eye-gaze locations of web visitors on a page in real time. The eye tracking model it contains self-calibrates by watching web visitors interact with the web page and trains a mapping between the features of the eye and positions on the screen. WebGazer.js is written entirely in JavaScript and with only a few lines of code can be integrated in any website that wishes to better understand their visitors and transform their user experience. WebGazer.js runs entirely in the client browser, so no video data needs to be sent to a server, and it requires the user's consent to access their webcam.
- 
+
 # Neurociencia computacional
 
 * Todo el material de la escuela de verano neurociencia computacional [**Neuromatch Academy 2020**](https://www.neuromatchacademy.org/syllabus)
@@ -91,11 +91,11 @@ Si deseas agregar un recurso podés hacer un pull request (si no sabes cómo fij
 
 * [Canal de Youtube de Psychopy para hacer experimentos con Python](https://www.youtube.com/playlist?list=PLFB5A1BE51964D587)
 
-* [Recursos para aprender y enseñar Psychopy](https://workshops.psychopy.org/teaching/index.html) 
+* [Recursos para aprender y enseñar Psychopy](https://workshops.psychopy.org/teaching/index.html)
 
 * [Canal de Youtube de Josh de Leeuw (creador de jsPsych)](https://www.youtube.com/playlist?list=PLnfo1lBY1P2Mf_o6rV5wiqqn92Mw3UTGh)
    * [jsPsych](https://www.jspsych.org/) es una poderosa librería para hacer experimentos de psicología y neurociencias utilizando el lenguaje javaScript.
- 
+
 * [Moving research online workshop 2020](https://www.youtube.com/playlist?list=PLb_Brg3lLp-2HUVoc0SpFft3lu-rQOgAe)
 
 * [jsPsych tutorials by Winson Yang](https://www.youtube.com/playlist?list=PLtdKTIOUlb42qG962wz30fzlUMibJCGQW)
@@ -114,7 +114,7 @@ Si deseas agregar un recurso podés hacer un pull request (si no sabes cómo fij
 * Biometría 2, materia de FCEyN (Universidad de Buenos Aires). Temas:  Modelos (lineales, no lineales, mixtos), Análisis de la varianza, regresiones, métodos de comparación multivariada, diseño de medidas repetidas, entre otros.
     * [Playlist](https://www.youtube.com/playlist?list=PLlZeP0wo7-V-FESy7Jrl-OjzZh4np3aob)
     * [Web de la materia](http://www.ege.fcen.uba.ar/academico/materias-de-grado/materias-del-ciclo-superior-segundo-cuatrimestre/materias-del-area-ecologia/biometria-ii/)
-    
+
 * [Essence of linear algebra (Youtube playlist by 3Blue1Brown)](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
 
 * [Introduction to statistics (Youtube playlist by Khan Academy)](https://www.youtube.com/playlist?list=PL1328115D3D8A2566)
@@ -125,7 +125,7 @@ Si deseas agregar un recurso podés hacer un pull request (si no sabes cómo fij
     * [Statistics fundamentals](https://www.youtube.com/playlist?list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9)
     * [Linear regression and linear models](https://www.youtube.com/playlist?list=PLblh5JKOoLUIzaEkCLIUxQFjPIlapw8nU)
     * [Índice conteniendo todos los videos](https://statquest.org/video-index/)
-    
+
 * [Mathematical Tools for Neuroscience (Neurobio 212 at Harvard)](https://github.com/ebatty/MathToolsforNeuroscience)
    * Curso con temática similar al de Math tools de NYU. Diferencias: Código en Python (cuadenos de Colab) en vez de Matlab y que está pensado específicamente para ser dictado online con una estética tipo Khan Academy.
    * Temas: Álgebra lineal, estadística, ecuaciones diferenciales, sistemas dinámicos y bases de Machine Learning.
@@ -134,10 +134,10 @@ Si deseas agregar un recurso podés hacer un pull request (si no sabes cómo fij
 * [Introduction to Mathematics and Python using Neuroscience Examples](https://github.com/john-s-butler-dit/Basic-Introduction-to-Python)
    * Se propone como una breve introducción a las herramientas matematicas en Python.
    * Una buena opción previa a Mathematical Tools for Neuroscience (Neurobio 212 at Harvard)   
-   
+
 * [Introduction to Linear Algebra for Applied Machine Learning with Python](https://pabloinsente.github.io/intro-linear-algebra)
    * Muy buen recurso para arrancar con álgebra lineal desde cero. Recomiendo la sección sobre notación matemática que, como dice el autor, suele ser uno de los problemas más grandes para quienes no venimos de ese campo.
-   
+
 * ["Viendo la teoria". Libro interactivo para iniciarse en nociones de probabilidad](https://seeing-theory.brown.edu/es.html#firstPage)
    * Recurso creado por Daniel Kunin mientras era un estudiante de pregrado en la Universidad de Brown. El objetivo de la página es hacer la Estadística más accesible usando visualizaciones interactivas en el navegador.
 
@@ -148,16 +148,16 @@ Si deseas agregar un recurso podés hacer un pull request (si no sabes cómo fij
    Introducción al Análisis Multivariado (Carrera de Especialización en Estadística para profesionales en Ciencias de la Salud)
    Ciencia de Datos con R (Materia optativa de grado y posgrado)
    Técnicas Avanzadas de Regresión (Carrera de Especialización en Estadística para profesionales en Ciencias de la Salud)
-   
+
 * [Material de la materia "Laboratorio de Datos" (Universidad de Buenos Aires)](http://materias.df.uba.ar/lda2021c1/171-2/)
    * Excelente contenido en español sobre análisis de datos y Machine Learning con Python: Videos, slides y notebooks
    * Algunos de los temas abarcados: análisis exploratorio de datos numéricos, modelos de regresión, modelos de clasificación, clustering y reducción de la dimensionalidad, obtención de datos, datos no numéricos, introducción al procesamiento del lenguaje natural.
 
 * [NSCI 801: Quantitative Neuroscience by Dr Gunnar BLOHM](https://github.com/BlohmLab/NSCI801-QuantNeuro)
-   * Todo el material del curso de Neurociencia cuantitativa utilizando Python y Google Colab 
-   * Temas: Intro Python, Advanced Python, Data collection / signal processing, Statistics and Hypothesis testing - basics, Statistics and Hypothesis testing - advanced, Quantitative wet lab / bench methods , Statistics and Hypothesis testing - Bayesian, Models in Neuroscience, Data Neuroscience overview , Correlation vs causality, Reproducibility, reliability, validity, 
+   * Todo el material del curso de Neurociencia cuantitativa utilizando Python y Google Colab
+   * Temas: Intro Python, Advanced Python, Data collection / signal processing, Statistics and Hypothesis testing - basics, Statistics and Hypothesis testing - advanced, Quantitative wet lab / bench methods , Statistics and Hypothesis testing - Bayesian, Models in Neuroscience, Data Neuroscience overview , Correlation vs causality, Reproducibility, reliability, validity,
 
-* [Stanford's "Introduction to Statistics"](https://www.coursera.org/learn/stanford-statistics) 
+* [Stanford's "Introduction to Statistics"](https://www.coursera.org/learn/stanford-statistics)
    * Curso de coursera introductorio con los siguientes temas: Estadística descriptiva, Muestreo y Experimentos Controlados Aleatorizados, Probabilidad, Distribuciones de Muestreo y Teorema Central del Limite, Regresión, Pruebas Comunes de Significancia, Remuestreo, Comparaciones Múltiples.
 
 * [Computational linear algebra by Rachel Thomas](https://www.fast.ai/2017/07/17/num-lin-alg/)
@@ -188,10 +188,10 @@ Si deseas agregar un recurso podés hacer un pull request (si no sabes cómo fij
 
 * [Made With ML Topics: An automatically and constantly up-to-date collection of the best ML resources by topic, curated by the community](https://madewithml.com/topics/)
    * Realmente tiene de todo sobre el tema! (Tutoriales separados por: Frameworks, librerías, algoritmos, modelos, técnicas, áreas, etc)
-   
+
 * [Repositorio de la materia Aprendizaje Automático (Universidad Nacional de San Martin)](https://github.com/exord/UNSAM_IA)
     * Valioso recurso en español, donde son más escasos. Contiene videos, slides y código.
-    
+
 * [Machine Learning Practico (2020). Curso en español dictado por Pablo Zivic en el Instituto de Cálculo, FCEyN, UBA](https://elsonidoq.github.io/machine-learning-practico/)
 
 * [Lectures and slides for the UvA Master AI course Machine Learning 1](https://uvaml1.github.io/)
@@ -205,7 +205,7 @@ Si deseas agregar un recurso podés hacer un pull request (si no sabes cómo fij
    * Curso completo con videos, notebooks y ejercicios. Completamente en español.
    * Temas: Introducción: ¿qué es la Inteligencia Artificial y cómo se relaciona con el AM? , Regresión, Clasificación, Selección y evaluación de modelos, Máquinas de soporte vectorial, Aprendizaje no supervisado, Redes neuronales, Process Gaussianos.
 
-* [CS224W: Machine Learning with Graphs | Stanford | Winter 2021](http://web.stanford.edu/class/cs224w/) 
+* [CS224W: Machine Learning with Graphs | Stanford | Winter 2021](http://web.stanford.edu/class/cs224w/)
    * What is this course about? Complex data can be represented as a graph of relationships between objects. Such networks are a fundamental tool for modeling social, technological, and biologic  al systems. This course focuses on the computational, algorithmic, and modeling challenges specific to the analysis of massive graphs. By means of studying the underlying graph structure and its features, students are introduced to machine learning techniques and data mining tools apt to reveal insights on a variety of networks.
    * Todos los videos de las clases, ejercicios y notebooks.
 
@@ -235,10 +235,10 @@ Si deseas agregar un recurso podés hacer un pull request (si no sabes cómo fij
 
 * [Aprendiendo Python | Curso de Python 2020 desde cero COMPLETO by Fede Yulita](https://www.youtube.com/playlist?list=PLZMkywH6sgYja6iXYNFTAcItHHvt842gH)
   * El curso es ameno, Fede es un chico de computación en Exactas, UBA.
-  
+
 * [Curso PYTHON DATA SCIENCE 🐍💻 2020 en Español by Rafa Gonzalez Gouveia](https://www.youtube.com/playlist?list=PLbDLkhJ5sFvBJC6XnRSHMltAdKXI7Drw9)
   * Muy buen canal para ciencia de datos con Python (también tiene videos con R!) en español.
- 
+
 * [Canal de YouTube de CCTMéxico](https://www.youtube.com/c/cctmexico/playlists)
   * Excelente canal mexicano con videos de temas relacionados a las ciencias básicas, programación en Python, ciencia de datos entre otros.
 
@@ -252,13 +252,14 @@ Si deseas agregar un recurso podés hacer un pull request (si no sabes cómo fij
   * Herramientas de programación para empezar a analizar datos de neurociencias usando Python.
 
 * [Neuromatch Deep Learning 2021](https://deeplearning.neuromatch.io/tutorials/intro.html)
-  * Contenido de la excelente escuela de verano de [Neuromatch](https://neuromatch.io/) sobre Deep Learning. 
+  * Contenido de la excelente escuela de verano de [Neuromatch](https://neuromatch.io/) sobre Deep Learning.
   * Sirve para aprender Deep Learning en general pero las aplicaciones son principalmente en neurociencias.  
 
 # R
 
 * ["Learn R for free"](https://www.learnr4free.com/)
-  * Tiene todo tipo de recursos (libros, videos, sitios web interactivos, artículos) para aprender R. Algunos son para principiantes y comienzan desde el proceso de instalación de R. 
+  * Tiene todo tipo de recursos (libros, videos, sitios web interactivos, artículos) para aprender R. Algunos son para principiantes y comienzan desde el proceso de instalación de R.
   * Tiene versión en español!
 
-
+* [Iniciación en R para científicos - Miguel Rojas](https://github.com/itsmiguelrojas/taller_r)
+  * Intro muy completa a R desde un vistazo a la interfaz de RStudio hasta pruebas de hipótesis, pasando por graficación y estructura de datos. Miguel es estudiante de la licenciatura en biología de la Facultad de Ciencias de la Universidad Central de Venezuela.
