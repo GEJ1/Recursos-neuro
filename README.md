@@ -55,6 +55,9 @@ Si deseas agregar un recurso podés hacer un pull request (si no sabes cómo fij
 
 * [Multivariate pattern analysis by Martin Hebart](https://fmrif.nimh.nih.gov/public/other-courses/mvpa)
 
+* [Andy’s Brain Book](https://andysbrainbook.readthedocs.io/en/latest/index.html)
+   * Libro y videos que tienen como objetivo enseñar a analizar datos de fMRI 
+
 # Eyetracking
 
 * [PyGaze: Open-source toolbox for eye tracking in Python](http://www.pygaze.org/)
