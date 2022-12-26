@@ -171,6 +171,10 @@ Si deseas agregar un recurso podés hacer un pull request (si no sabes cómo fij
 * [Mathematical Tools for Data Science dictado por Carlos Fernandez-Granda (NYU University)](https://cds.nyu.edu/math-tools/)
    * [Repo](https://github.com/cfgranda/math-tools-nyu)
 
+* [Fundamentals for Neuro Data Science](https://neurodatascience.github.io/QLS612-Overview/)
+   * Este curso está destinado a investigadores en ciencias de la vida (neurólogos, psiquiatras, psicólogos, neurocientíficos) que desean mejorar sus prácticas de investigación u otros investigadores que desean una introducción a la ciencia de datos con ejemplos en neurociencia y neuroimágenes. El objetivo es brindar herramientas para ser capaz de analizar datos de manera reproducible y colaborativa utilizando Python.
+   * Temas: Introducción a la reproducibilidad, terminal y Bash, Introducción a Python, Caja de herramientas de Python para análisis de datos, Git/GitHub, Preprocesamiento de datos en Python, Aprendizaje automático 1: aprendizaje supervisado, Machine Learning 2: selección y validación de modelos, Introducción a la visualización de datos, Contenedores, Computación de alto rendimiento.
+
 # Ciencias Cognitivas
 
 * [Introduction to Cognitive Science for Undergraduates. Lectures delivered in University College Dublin in Spring 2020](https://www.youtube.com/playlist?list=PLTIeLyBa6PfJCSiIiwVhJIjl_lMZZQ-rD)
