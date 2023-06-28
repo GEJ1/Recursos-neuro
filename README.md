@@ -8,10 +8,6 @@ Si conocés a alguien a quien le pueda servir, compartilo y si te gustó dale un
 
 Si deseas agregar un recurso podés hacer un pull request (si no sabes cómo fijate [acá](https://www.freecodecamp.org/espanol/news/como-hacer-tu-primer-pull-request-en-github/))
 
-¿Querés ayudarme a recolectar datos para mi doctorado y entender mejor el cerebro?<br> 
-**Entrá a 🧠[neuropruebas.org](https://neuropruebas.org/)🧠**
-
-
 ## Temas
 - [EEG](#EEG)
 - [fMRI](#fMRI)
