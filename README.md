@@ -67,6 +67,9 @@ Si deseas agregar un recurso podés hacer un pull request (si no sabes cómo fij
 * [WebGazer.js](https://webgazer.cs.brown.edu/)
    * WebGazer.js is an eye tracking library that uses common webcams to infer the eye-gaze locations of web visitors on a page in real time. The eye tracking model it contains self-calibrates by watching web visitors interact with the web page and trains a mapping between the features of the eye and positions on the screen. WebGazer.js is written entirely in JavaScript and with only a few lines of code can be integrated in any website that wishes to better understand their visitors and transform their user experience. WebGazer.js runs entirely in the client browser, so no video data needs to be sent to a server, and it requires the user's consent to access their webcam.
 
+* [Eye Tracking Methodology (Clemson University, Fall 2023)](http://andrewd.ces.clemson.edu/courses/cpsc412/fall23/sched.html)
+   * Contenido del curso de metodología de seguimiento ocular dictado por Andrew T. Duchowski, uno de los principales especialistas en el tema a nivel mundial 
+
 # Neurociencia computacional
 
 * Todo el material de la escuela de verano neurociencia computacional [**Neuromatch Academy 2020**](https://www.neuromatchacademy.org/syllabus)
