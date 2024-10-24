@@ -188,7 +188,7 @@ Si deseas agregar un recurso podés hacer un pull request (si no sabes cómo fij
 
 # Machine Learning
 
-* [Playlist del ya clásico curso de Machine Learning de Andrew Ng](https://www.youtube.com/watch?v=PPLop4L2eGk&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN&ab_channel=ArtificialIntelligence-AllinOne)
+* [Playlist del ya clásico curso de Machine Learning de Andrew Ng](https://www.youtube.com/playlist?list=PLkDaE6sCZn6FNC6YRfRQc_FbeQrF8BwGI)
 
 * [Stat-451: Intro to Machine Learning (Fall 2020) by Sebastian Raschka](https://www.youtube.com/playlist?list=PLTKMiZHVd_2KyGirGEvKlniaWeLOHhUF3)
 
