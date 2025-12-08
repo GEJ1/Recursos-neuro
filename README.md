@@ -60,8 +60,10 @@ Si deseas agregar un recurso podés hacer un pull request (si no sabes cómo fij
 
 # Eyetracking
 
+* [Pyxations](http://www.github.com/neuroliaa/pyxations)
+   * Libreria de Python de la cual soy co-autor. Creada por el Laboratorio  de Inteligencia Artificial Aplicada de la Universidad de Buenos Aires. 
+
 * [PyGaze: Open-source toolbox for eye tracking in Python](http://www.pygaze.org/)
-   * La principal opcion para analizar movimientos oculares en Python
 
 * [Gaze tracking estimation video by learnopencv Youtube Channel](https://youtu.be/-lmc2-podgQ)
    * In this video, we explain the problem of gaze estimation, current methods for collecting ground truth data, public datasets, and current methods for solving the      gaze estimation/tracking problem.
