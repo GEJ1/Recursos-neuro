@@ -61,7 +61,7 @@ Si deseas agregar un recurso podés hacer un pull request (si no sabes cómo fij
 # Eyetracking
 
 * [Pyxations](http://www.github.com/neuroliaa/pyxations)
-   * Libreria de Python de la cual soy co-autor. Creada por el Laboratorio  de Inteligencia Artificial Aplicada de la Universidad de Buenos Aires. 
+   * Libreria de Python para análisis y organización de datos de movimientos oculares de la cual soy co-autor. Creada por el Laboratorio  de Inteligencia Artificial Aplicada de la Universidad de Buenos Aires. 
 
 * [PyGaze: Open-source toolbox for eye tracking in Python](http://www.pygaze.org/)
 
