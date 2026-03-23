@@ -303,9 +303,6 @@ Los modelos de lenguaje de gran escala (LLMs) se han convertido en herramientas 
 * [Schrimpf et al. - The neural architecture of language (PNAS 2021)](https://www.pnas.org/doi/10.1073/pnas.2105646118)
    * Trabajo de referencia que muestra cómo los modelos de lenguaje predicen respuestas en la corteza del lenguaje. Introduce el framework de "neural predictivity" para comparar LLMs con datos de fMRI y EEG.
 
-* [Taller: Language and the Brain (CCN 2023)](https://www.youtube.com/watch?v=7YGG7gDr_fI)
-   * Video de la conferencia Cognitive Computational Neuroscience que aborda la relación entre modelos de lenguaje y representaciones cerebrales.
-
 * [BrainBench: A Human-LLM Forward Inference Benchmark for Neuroscience](https://github.com/braingpt-lovelab/BrainBench)
    * Benchmark para evaluar qué tan bien los LLMs pueden predecir resultados de experimentos en neurociencias. Incluye código y datos para replicar los análisis.
 
@@ -339,5 +336,3 @@ La reproducibilidad es uno de los mayores desafíos en neurociencias. Esta secci
 * [Binder](https://mybinder.org/)
    * Permite convertir repositorios de GitHub en entornos interactivos de Jupyter ejecutables en el navegador, sin necesidad de instalar nada. Muy útil para compartir análisis reproducibles.
 
-* [Introduction to Docker for Data Scientists](https://www.youtube.com/watch?v=0qG_0CPB6k4)
-   * Video introductorio para entender cómo usar Docker para crear entornos reproducibles en ciencia de datos y neurociencias.
