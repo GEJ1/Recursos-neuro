@@ -300,16 +300,13 @@ Si deseas agregar un recurso podés hacer un pull request (si no sabes cómo fij
 
 Los modelos de lenguaje de gran escala (LLMs) se han convertido en herramientas tanto para el análisis de textos científicos como para modelar procesos cognitivos. Esta sección cubre recursos en la intersección entre NLP, LLMs y neurociencias.
 
-* [Neural Language Models as Cognitive Models of Language Processing (tutorial, ACL 2023)](https://neurallm-cogmodels.github.io/)
-   * Tutorial completo sobre cómo evaluar modelos de lenguaje como modelos cognitivos. Incluye comparaciones con datos de psicolingüística y neuroimágenes.
-
 * [Schrimpf et al. - The neural architecture of language (PNAS 2021)](https://www.pnas.org/doi/10.1073/pnas.2105646118)
    * Trabajo de referencia que muestra cómo los modelos de lenguaje predicen respuestas en la corteza del lenguaje. Introduce el framework de "neural predictivity" para comparar LLMs con datos de fMRI y EEG.
 
 * [Taller: Language and the Brain (CCN 2023)](https://www.youtube.com/watch?v=7YGG7gDr_fI)
    * Video de la conferencia Cognitive Computational Neuroscience que aborda la relación entre modelos de lenguaje y representaciones cerebrales.
 
-* [BrainBench: A Human-LLM Forward Inference Benchmark for Neuroscience](https://github.com/braingpt-laolab/brainbench)
+* [BrainBench: A Human-LLM Forward Inference Benchmark for Neuroscience](https://github.com/braingpt-lovelab/BrainBench)
    * Benchmark para evaluar qué tan bien los LLMs pueden predecir resultados de experimentos en neurociencias. Incluye código y datos para replicar los análisis.
 
 * [BrainGPT - Large Language Models for Brain Decoding](https://braingpt.org/)
@@ -328,7 +325,7 @@ La reproducibilidad es uno de los mayores desafíos en neurociencias. Esta secci
 
 * [ReproNim: Reproducible Neuroimaging](https://www.repronim.org/)
    * Iniciativa dedicada específicamente a la reproducibilidad en neuroimágenes. Ofrece cursos, herramientas y guías. Su curso introductorio cubre BIDS, containers, DataLad y estadística reproducible.
-   * [Curso: ReproNim/INCF Training Fellowship](https://www.repronim.org/teach.html)
+   * [Curso: ReproNim/INCF Training Fellowship](https://legacy.repronim.org/teach.html)
 
 * [Neurohackademy](https://neurohackademy.org/)
    * Escuela de verano de la Universidad de Washington sobre neurociencia y ciencia de datos. Todos los videos y materiales están disponibles online. Cubre Python, Git, Docker, fMRI, machine learning y más.
