@@ -21,6 +21,9 @@ Si deseas agregar un recurso podés hacer un pull request (si no sabes cómo fij
 - [Ciencias Cognitivas](#Ciencias-Cognitivas)
 - [Machine Learning](#Machine-Learning)
 - [Deep Learning](#Deep-Learning)
+- [Datos abiertos](#Datos-abiertos)
+- [LLMs y NLP en Neurociencias](#LLMs-NLP)
+- [Reproducibilidad](#Reproducibilidad)
 
 # EEG
 
@@ -243,6 +246,23 @@ Si deseas agregar un recurso podés hacer un pull request (si no sabes cómo fij
 * [awesome-neuro-ai-papers](https://github.com/CYHSM/awesome-neuro-ai-papers)
    * Recopilación de papers en la intersección entre la Neurociencia y el Deep Learning.
 
+# Datos-abiertos
+
+* [OpenNeuro](https://openneuro.org/)
+   * Plataforma gratuita y abierta para compartir datos de neuroimágenes (fMRI, EEG, MEG, iEEG, entre otros). Sigue el estándar BIDS (Brain Imaging Data Structure). Contiene miles de datasets listos para descargar y reutilizar.
+
+* [CRCNS - Collaborative Research in Computational Neuroscience](https://crcns.org/)
+   * Repositorio de datos de electrofisiología, imágenes y comportamiento animal. Incluye registros de actividad neuronal en diversas especies y paradigmas. Muy útil para neurociencia computacional.
+
+* [DANDI Archive](https://dandiarchive.org/)
+   * Archivo de datos de neurociencia en formato NWB (Neurodata Without Borders). Contiene datasets de electrofisiología, calcium imaging y conducta. Diseñado para facilitar la reproducibilidad y el intercambio de datos.
+
+* [Neurodata Without Borders (NWB)](https://www.nwb.org/)
+   * Estándar de formato de datos para neurociencias. El sitio incluye tutoriales y herramientas para leer, escribir y compartir datos en Python y MATLAB.
+
+* [NIMH Data Archive](https://nda.nih.gov/)
+   * Repositorio del National Institute of Mental Health con datos de estudios sobre salud mental, neuroimágenes y comportamiento. Requiere registro.
+
 # Python
 
 * [Aprendiendo Python | Curso de Python 2020 desde cero COMPLETO by Fede Yulita](https://www.youtube.com/playlist?list=PLZMkywH6sgYja6iXYNFTAcItHHvt842gH)
@@ -275,3 +295,52 @@ Si deseas agregar un recurso podés hacer un pull request (si no sabes cómo fij
 
 * [Iniciación en R para científicos - Miguel Rojas](https://github.com/itsmiguelrojas/taller_r)
   * Intro muy completa a R desde un vistazo a la interfaz de RStudio hasta pruebas de hipótesis, pasando por graficación y estructura de datos. Miguel es estudiante de la licenciatura en biología de la Facultad de Ciencias de la Universidad Central de Venezuela.
+
+# LLMs-NLP
+
+Los modelos de lenguaje de gran escala (LLMs) se han convertido en herramientas tanto para el análisis de textos científicos como para modelar procesos cognitivos. Esta sección cubre recursos en la intersección entre NLP, LLMs y neurociencias.
+
+* [Neural Language Models as Cognitive Models of Language Processing (tutorial, ACL 2023)](https://neurallm-cogmodels.github.io/)
+   * Tutorial completo sobre cómo evaluar modelos de lenguaje como modelos cognitivos. Incluye comparaciones con datos de psicolingüística y neuroimágenes.
+
+* [Schrimpf et al. - The neural architecture of language (PNAS 2021)](https://www.pnas.org/doi/10.1073/pnas.2105646118)
+   * Trabajo de referencia que muestra cómo los modelos de lenguaje predicen respuestas en la corteza del lenguaje. Introduce el framework de "neural predictivity" para comparar LLMs con datos de fMRI y EEG.
+
+* [Taller: Language and the Brain (CCN 2023)](https://www.youtube.com/watch?v=7YGG7gDr_fI)
+   * Video de la conferencia Cognitive Computational Neuroscience que aborda la relación entre modelos de lenguaje y representaciones cerebrales.
+
+* [BrainBench: A Human-LLM Forward Inference Benchmark for Neuroscience](https://github.com/braingpt-laolab/brainbench)
+   * Benchmark para evaluar qué tan bien los LLMs pueden predecir resultados de experimentos en neurociencias. Incluye código y datos para replicar los análisis.
+
+* [BrainGPT - Large Language Models for Brain Decoding](https://braingpt.org/)
+   * Proyecto de investigación que utiliza LLMs para decodificación cerebral y análisis de literatura neurocientífica.
+
+* [Goldstein et al. - Shared computational principles for language processing in humans and deep language models (Nature Neuroscience 2022)](https://www.nature.com/articles/s41593-022-01026-4)
+   * Muestra cómo las activaciones de GPT-2 predicen la actividad neuronal durante la escucha de habla natural, con código disponible.
+
+# Reproducibilidad
+
+La reproducibilidad es uno de los mayores desafíos en neurociencias. Esta sección reúne herramientas y prácticas para hacer la investigación más abierta, reproducible y colaborativa.
+
+* [The Turing Way](https://the-turing-way.netlify.app/)
+   * Guía colaborativa y de código abierto para hacer ciencia de datos reproducible, ética y colaborativa. Cubre Git, entornos virtuales, notebooks, flujos de trabajo, entre otros. Muy completa y actualizada.
+   * [Repositorio](https://github.com/the-turing-way/the-turing-way)
+
+* [ReproNim: Reproducible Neuroimaging](https://www.repronim.org/)
+   * Iniciativa dedicada específicamente a la reproducibilidad en neuroimágenes. Ofrece cursos, herramientas y guías. Su curso introductorio cubre BIDS, containers, DataLad y estadística reproducible.
+   * [Curso: ReproNim/INCF Training Fellowship](https://www.repronim.org/teach.html)
+
+* [Neurohackademy](https://neurohackademy.org/)
+   * Escuela de verano de la Universidad de Washington sobre neurociencia y ciencia de datos. Todos los videos y materiales están disponibles online. Cubre Python, Git, Docker, fMRI, machine learning y más.
+
+* [BIDS - Brain Imaging Data Structure](https://bids.neuroimaging.io/)
+   * Estándar para organizar y describir datos de neuroimágenes. Adoptado ampliamente en la comunidad. El sitio incluye tutoriales y ejemplos.
+
+* [Jupyter Book](https://jupyterbook.org/)
+   * Herramienta para crear libros y publicaciones interactivas a partir de notebooks de Jupyter y archivos Markdown. Ideal para comunicar análisis de forma reproducible.
+
+* [Binder](https://mybinder.org/)
+   * Permite convertir repositorios de GitHub en entornos interactivos de Jupyter ejecutables en el navegador, sin necesidad de instalar nada. Muy útil para compartir análisis reproducibles.
+
+* [Introduction to Docker for Data Scientists](https://www.youtube.com/watch?v=0qG_0CPB6k4)
+   * Video introductorio para entender cómo usar Docker para crear entornos reproducibles en ciencia de datos y neurociencias.
